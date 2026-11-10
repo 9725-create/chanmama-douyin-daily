@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-08T01:29:11.194Z",
+  "queryDate": "2026-08-07",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-07",
+    "date": "2026-08-07",
+    "top5": [
+      {
+        "rank": "5",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "55w",
+        "followers": "2,380w",
+        "products": "0"
+      },
+      {
+        "rank": "228",
+        "name": "李要得 LYD178",
+        "verify": "",
+        "followerGain": "35.5w",
+        "followers": "680.3w",
+        "products": "27"
+      },
+      {
+        "rank": "12",
+        "name": "沪上阿姨鲜果茶 hsaybdsh888",
+        "verify": "商家认证账号",
+        "followerGain": "34.7w",
+        "followers": "1,988w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "幻方影视 dy2myst4kkmb",
+        "verify": "抚顺市顺城区塔隐百货店（个体工商户）",
+        "followerGain": "20.4w",
+        "followers": "601.4w",
+        "products": "0"
+      },
+      {
+        "rank": "5 2",
+        "name": "好想来零食乐园宠粉号 606069045",
+        "verify": "商家认证账号",
+        "followerGain": "17.7w",
+        "followers": "2,267.4w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-07",
+    "date": "2026-08-07",
+    "top5": [
+      {
+        "rank": "",
+        "name": "强哥🌈静姐7号9点神仙金人皮溯源专场 jingyatou806",
+        "sales": "1000w+ 4,908,529",
+        "volume": "5000~2w 4,424",
+        "atv": "2600~2800",
+        "followers": "367.8w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "吕德华 dehua66888",
+        "sales": "1000w+ 4,699,165",
+        "volume": "50w~100w 112,073",
+        "atv": "50~100",
+        "followers": "1,378.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "云上珠宝 YDSZB666",
+        "sales": "1000w+ 2,556,978",
+        "volume": "2w~10w 8,714",
+        "atv": "500~600",
+        "followers": "827.6w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "4",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 2,507,938",
+        "volume": "10w~50w 68,470",
+        "atv": "50~100",
+        "followers": "3,909.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "海锋 972077012",
+        "sales": "1000w+ 2,232,398",
+        "volume": "5w~10w 11,533",
+        "atv": "300~400",
+        "followers": "76.1w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1",
+    "top10": [
+      {
+        "creator": "喜遇辰安",
+        "fans": "3.2w",
+        "publishTime": "08/06 08:09",
+        "product": "优利特尿蛋白试纸尿目测试纸条家用医用尿常规肾病自检测试纸1VP",
+        "likes": "8,740",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "主持人桑桑",
+        "fans": "775.1w",
+        "publishTime": "08/06 16:02",
+        "product": "【北大博士科研成果】BOP修护牙膏羟基磷灰石抗敏含氟热销官方正品z",
+        "likes": "3.1w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "W慕泽",
+        "fans": "326.2w",
+        "publishTime": "08/05 11:55",
+        "product": "【升级款】滚珠清凉油清凉提神醒脑防蚊防叮老牌子大容量清凉油",
+        "likes": "1.8w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小强电竞工作室",
+        "fans": "6.7w",
+        "publishTime": "08/05 22:19",
+        "product": "S44赛季战令进阶卡【王者荣耀官方】<自动充值>",
+        "likes": "3.6w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "张小溪🏠",
+        "fans": "2.1w",
+        "publishTime": "08/05 10:31",
+        "product": "水果家用洗碗厨房洗锅刷锅清洁神器易清洗洗碗擦吸水加厚创意可爱",
+        "likes": "6,553",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "凌姑娘168",
+        "fans": "71.3w",
+        "publishTime": "08/05 09:26",
+        "product": "【一包二顿饭】五指毛桃盐焗粉调味料15g*6袋家用五指毛桃盐焗鸡",
+        "likes": "3,917",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "赵梦琪爸《橱窗己开》",
+        "fans": "4.4w",
+        "publishTime": "08/05 05:46",
+        "product": "【爱心助力】抽纸六层加厚卫生纸原生木浆面巾纸餐巾纸客厅卧室专用",
+        "likes": "2.7w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "夏叔有好货",
+        "fans": "676.5w",
+        "publishTime": "08/05 10:01",
+        "product": "赤小豆薏米芡实茯苓茶三伏天养生茶芡实薏米真材实料独立茶包",
+        "likes": "1.3w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "杨杨的日常分享",
+        "fans": "26.2w",
+        "publishTime": "08/05 09:00",
+        "product": "【数量改5拍】寸泉MCT生酮咖啡升级款早餐速溶咖啡粉黄油",
+        "likes": "6,389",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-17.56%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+24.87%",
+    "productHeat": null,
+    "productHeatMoM": "+4.85%",
+    "salesHeat": null,
+    "salesHeatMoM": "+23.62%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+20.91%",
+    "perLive": {
+      "gpm": "4.3w",
+      "gpmMoM": "+2.66%",
+      "atv": "108.94",
+      "atvMoM": "-0.25%",
+      "uvValue": "10+",
+      "uvValueMoM": "+2.67%",
+      "views": "1.2w",
+      "viewsMoM": "+12.12%",
+      "avgOnline": "46",
+      "avgOnlineMoM": "-68.49%",
+      "avgStay": "24′′",
+      "avgStayMoM": "-79.66%"
+    }
+  }
+}

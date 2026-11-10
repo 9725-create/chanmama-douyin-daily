@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-05T01:46:51.541Z",
+  "queryDate": "2026-09-04",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-04",
+    "date": "2026-09-04",
+    "top5": [
+      {
+        "rank": "",
+        "name": "陈泽- 9896719.",
+        "verify": "",
+        "followerGain": "61w",
+        "followers": "4,217.5w",
+        "products": "0"
+      },
+      {
+        "rank": "21",
+        "name": "食神戴龙说 38837159349",
+        "verify": "店铺账号",
+        "followerGain": "20.3w",
+        "followers": "135.8w",
+        "products": "0"
+      },
+      {
+        "rank": "59",
+        "name": "何香蓓Betty HeXiangbei",
+        "verify": "旅行领域自媒体",
+        "followerGain": "18.7w",
+        "followers": "1,206.1w",
+        "products": "17"
+      },
+      {
+        "rank": "4 10",
+        "name": "梅婷 71323690516",
+        "verify": "演员",
+        "followerGain": "16w",
+        "followers": "146.5w",
+        "products": "0"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "姚雨墨 abc2453418346",
+        "verify": "",
+        "followerGain": "13w",
+        "followers": "231.5w",
+        "products": "79"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-04",
+    "date": "2026-09-04",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,040,014",
+        "volume": "50w~100w 83,466",
+        "atv": "50~100",
+        "followers": "3,927.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "刘叮当🔔轻奢女包 LiuDingDang",
+        "sales": "1000w+ 3,646,491",
+        "volume": "2w~10w 17,085",
+        "atv": "400~500",
+        "followers": "854.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "李晨nic 15971668",
+        "sales": "1000w+ 2,110,020",
+        "volume": "2w~10w 6,022",
+        "atv": "700~800",
+        "followers": "516.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "刘媛媛·6号SKG小蛮腰健腹仪升级首发 liuyuanyuan1991",
+        "sales": "1000w+ 1,653,149",
+        "volume": "2w~10w 6,898",
+        "atv": "400~500",
+        "followers": "2,409.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "梅婷 71323690516",
+        "sales": "1000w+ 1,557,775",
+        "volume": "2.5w~5w 6,238",
+        "atv": "400~500",
+        "followers": "146.5w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-04",
+    "top10": [
+      {
+        "creator": "米小洣",
+        "fans": "1.9w",
+        "publishTime": "09/02 13:03",
+        "product": "2026新人教版小学一二年级上册语文数学同步训练一课一练全套教材",
+        "likes": "9,753",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "世豪妈妈爱生活",
+        "fans": "113.4w",
+        "publishTime": "09/02 17:03",
+        "product": "优厨10A 级抗菌洗碗布易清洗厨房吸油去油抹布油利除洗碗巾百洁布",
+        "likes": "8,964",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "拉乌婆婆",
+        "fans": "112.4w",
+        "publishTime": "09/02 10:30",
+        "product": "优厨5a抗菌升级款油利除多功能巾厨房洗碗巾耐用易清洗吸水抹布",
+        "likes": "3.4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "鲲鹏的朋友圈",
+        "fans": "35.6w",
+        "publishTime": "09/02 14:29",
+        "product": "【5双】白色堆堆袜子女春秋中筒袜纯色棉无骨月子袜四季百搭长筒袜",
+        "likes": "2,426",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "大米娃",
+        "fans": "1.9w",
+        "publishTime": "09/02 17:38",
+        "product": "儿童兔子警官皮筋不伤发发绳女童扎丸子头发圈高弹力马尾头绳头饰",
+        "likes": "3,863",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "想想爱睡觉",
+        "fans": "4.6w",
+        "publishTime": "09/02 23:39",
+        "product": "月半弯大号加厚抽纸6/24大包家用实惠装面巾纸卫生纸巾餐巾纸抽MY",
+        "likes": "3,753",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "富贵铁子",
+        "fans": "4.4w",
+        "publishTime": "09/03 12:23",
+        "product": "幽芒之谜·南宫锦 技能/奥义特效挂饰捆绑包【永劫无间官方充值】",
+        "likes": "6,432",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "我爱做饭",
+        "fans": "140.4w",
+        "publishTime": "09/03 15:06",
+        "product": "【500ML】五月花清风大瓶香薰木质香调无火香薰客厅卧室空气清新",
+        "likes": "1,058",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "泡泡甜汤",
+        "fans": "3.4w",
+        "publishTime": "09/03 09:00",
+        "product": "【VIP上新】拉面范方便面VIP桶装番茄多口味4桶组合装-LC",
+        "likes": "1.8w",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-04",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-5.17%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+3.38%",
+    "productHeat": null,
+    "productHeatMoM": "-8.52%",
+    "salesHeat": null,
+    "salesHeatMoM": "-10.85%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-8.58%",
+    "perLive": {
+      "gpm": "6.8w",
+      "gpmMoM": "-9.23%",
+      "atv": "108.26",
+      "atvMoM": "+0.17%",
+      "uvValue": "10+",
+      "uvValueMoM": "-9.22%",
+      "views": "1.1w",
+      "viewsMoM": "+10.56%",
+      "avgOnline": "143",
+      "avgOnlineMoM": "+6.72%",
+      "avgStay": "1′52′′",
+      "avgStayMoM": "-7.7%"
+    }
+  }
+}

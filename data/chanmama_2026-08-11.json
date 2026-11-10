@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-12T01:53:29.487Z",
+  "queryDate": "2026-08-11",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-11",
+    "date": "2026-08-11",
+    "top5": [
+      {
+        "rank": "",
+        "name": "旭旭宝宝 renyixu1989",
+        "verify": "游戏主播",
+        "followerGain": "68.9w",
+        "followers": "2,726.7w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "林思琪 852703780",
+        "verify": "",
+        "followerGain": "59.7w",
+        "followers": "380.4w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "精彩高迪 jingcaigaodi",
+        "verify": "",
+        "followerGain": "19.3w",
+        "followers": "396.4w",
+        "products": "0"
+      },
+      {
+        "rank": "4 2",
+        "name": "益禾堂宠粉福利官 75029644176",
+        "verify": "商家认证账号",
+        "followerGain": "18.2w",
+        "followers": "206w",
+        "products": "0"
+      },
+      {
+        "rank": "5 3",
+        "name": "凡凡吃垮上海 98675330782",
+        "verify": "",
+        "followerGain": "16.6w",
+        "followers": "112w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-11",
+    "date": "2026-08-11",
+    "top5": [
+      {
+        "rank": "",
+        "name": "张白鸽13号早8点新西兰麦角硫因水光肌 gezi6668888",
+        "sales": "1000w+ 5,241,217",
+        "volume": "2w~10w 11,070",
+        "atv": "1000~1200",
+        "followers": "1,538.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "路遥女包(生活号） 28780739456",
+        "sales": "1000w+ 4,027,281",
+        "volume": "10w~25w 26,695",
+        "atv": "200~300",
+        "followers": "296.9w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 2,967,726",
+        "volume": "10w~50w 55,217",
+        "atv": "50~100",
+        "followers": "3,909w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "玉美人菲菲 66685918373",
+        "sales": "1000w+ 2,256,532",
+        "volume": "2w~10w 10,845",
+        "atv": "400~500",
+        "followers": "272.8w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "麦小登 maixiaodeng",
+        "sales": "1000w+ 1,828,809",
+        "volume": "10w~50w 32,166",
+        "atv": "50~100",
+        "followers": "2,111.7w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-11",
+    "top10": [
+      {
+        "creator": "林子聪",
+        "fans": "189.7w",
+        "publishTime": "08/09 17:00",
+        "product": "科净威【聪哥同款】云山香薰轻奢质感车载香薰杯架香膏除味空气清新",
+        "likes": "2.3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小竹快快长🎋",
+        "fans": "1.4w",
+        "publishTime": "08/09 21:58",
+        "product": "家用热油泼油煎蛋小铁锅 无涂层加厚铸铁平底不粘锅11cm",
+        "likes": "3,782",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "戴洋(重新开始）",
+        "fans": "8.3w",
+        "publishTime": "08/09 16:13",
+        "product": "觅味娘娘椒盐瓜子仁大颗粒熟葵瓜子仁配料干净休闲零食500g/罐",
+        "likes": "4,164",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "双胞胎宝妈（小敏）",
+        "fans": "1.6w",
+        "publishTime": "08/09 13:12",
+        "product": "【数量改4拍】宦博士羽衣甘蓝西梅咖啡液冷热即溶咖啡独立包装",
+        "likes": "1,011",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "阿义走乡村",
+        "fans": "214.3w",
+        "publishTime": "08/10 11:04",
+        "product": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "likes": "2.3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "云上鲜生",
+        "fans": "2.8w",
+        "publishTime": "08/10 06:33",
+        "product": "品味新疆正宗新疆酱番茄仙女果新疆源产地现摘直发5斤包邮",
+        "likes": "4,263",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "杨杨的日常分享",
+        "fans": "26.4w",
+        "publishTime": "08/09 09:00",
+        "product": "【数量改5拍】寸泉MCT生酮咖啡升级款早餐速溶咖啡粉黄油",
+        "likes": "3,190",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "福伽好物推荐",
+        "fans": "31.3w",
+        "publishTime": "08/10 12:53",
+        "product": "新款闪灯摇臂创意蓝焰直冲防风个性打火机男友必备网红镂空彩色",
+        "likes": "1,959",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "摆摆月",
+        "fans": "2w",
+        "publishTime": "08/09 12:12",
+        "product": "【逆水寒手游】鉴石神凿·绑",
+        "likes": "2,151",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-11",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+0.93%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+7.98%",
+    "productHeat": null,
+    "productHeatMoM": "+1.15%",
+    "salesHeat": null,
+    "salesHeatMoM": "-1.34%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-1.19%",
+    "perLive": {
+      "gpm": "5w",
+      "gpmMoM": "-2.76%",
+      "atv": "110.98",
+      "atvMoM": "+0.69%",
+      "uvValue": "10+",
+      "uvValueMoM": "-2.76%",
+      "views": "1.2w",
+      "viewsMoM": "+0.23%",
+      "avgOnline": "153",
+      "avgOnlineMoM": "-6.71%",
+      "avgStay": "1′57′′",
+      "avgStayMoM": "+2.91%"
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-21T01:53:10.537Z",
+  "queryDate": "2026-08-20",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-20",
+    "date": "2026-08-20",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "梦幻老王 （8月20日晚9点首秀） 73796455215",
+        "verify": "",
+        "followerGain": "36w",
+        "followers": "138.1w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "蔡徐坤 1307311292",
+        "verify": "歌手、抖音音乐人",
+        "followerGain": "18.5w",
+        "followers": "2,793.1w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "书亦烧仙草 s25845727433",
+        "verify": "商家认证账号",
+        "followerGain": "15.8w",
+        "followers": "852.4w",
+        "products": "0"
+      },
+      {
+        "rank": "4 106",
+        "name": "刘回 848686939",
+        "verify": "",
+        "followerGain": "15.2w",
+        "followers": "692.4w",
+        "products": "0"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "阿龙说剧 ALongys666888",
+        "verify": "",
+        "followerGain": "13.8w",
+        "followers": "47w",
+        "products": "2"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-20",
+    "date": "2026-08-20",
+    "top5": [
+      {
+        "rank": "",
+        "name": "陈赫 191433445",
+        "sales": "1000w+ 6,033,396",
+        "volume": "2w~10w 5,778",
+        "atv": "2600~2800",
+        "followers": "6,889.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,242,619",
+        "volume": "50w~100w 79,530",
+        "atv": "50~100",
+        "followers": "3,912.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "路遥女包(生活号） 28780739456",
+        "sales": "1000w+ 3,430,567",
+        "volume": "5w~10w 12,274",
+        "atv": "500~600",
+        "followers": "316.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "无畏契约 valorantChina",
+        "sales": "1000w+ 2,644,463",
+        "volume": "5w~10w 11,234",
+        "atv": "400~500",
+        "followers": "427w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "陈三废姐弟23号早8点作业帮T60学习机 chensanfeigg31",
+        "sales": "1000w+ 2,078,344",
+        "volume": "10w~50w 30,817",
+        "atv": "100~200",
+        "followers": "4,494.1w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-20",
+    "top10": [
+      {
+        "creator": "泡面小生",
+        "fans": "5.1w",
+        "publishTime": "08/19 11:48",
+        "product": "【黑鸭火鸡面】泡面先生定制141g方便面速食哇塞火鸡面拌面哇噻面",
+        "likes": "1.2w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "桐桐锣烧（升级版）",
+        "fans": "82.9w",
+        "publishTime": "08/18 16:58",
+        "product": "Strange Tale咖啡因冰爽熬夜面膜三膜三效合一舒缓保湿10片+1片",
+        "likes": "1.4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "法治V观察",
+        "fans": "27.6w",
+        "publishTime": "08/18 18:04",
+        "product": "CC正宗云南新鲜凯特大芒果当季新鲜水果软糯香甜多汁皮薄肉厚",
+        "likes": "7,308",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "猴哥的小生活",
+        "fans": "96.6w",
+        "publishTime": "08/19 17:45",
+        "product": "bop波普专研色修美白牙膏活性抗菌肽生物溶渍亮白牙膏清新口气 ko",
+        "likes": "11.6w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "狗不红",
+        "fans": "8.4w",
+        "publishTime": "08/18 23:11",
+        "product": "【运补8r】夏季新款法式纯欲风开衫吊带裙套装显瘦休闲时尚穿搭套装",
+        "likes": "2.2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "莉姐姐爱做菜",
+        "fans": "28.1w",
+        "publishTime": "08/18 21:13",
+        "product": "【周黑鸭官方】正宗周黑鸭卤料4斤！鸭货黑鸭卤肉配方现捞调料卤汁",
+        "likes": "7,631",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "辣椒姐一家人",
+        "fans": "11.8w",
+        "publishTime": "08/18 10:27",
+        "product": "四季款A类软糯四件套新款皱皱双层纱亲肤舒适单人双人床单被罩",
+        "likes": "2,851",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "卡扎夫",
+        "fans": "1.2w",
+        "publishTime": "08/18 15:03",
+        "product": "童颜纪紧致提拉面膜提升轮廓下颌线双下巴脸部绷带挂耳式官方正品",
+        "likes": "1.4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "巴拉百货",
+        "fans": "32.2w",
+        "publishTime": "08/19 00:49",
+        "product": "【20片】梅干菜猪肉锅盔早餐冷冻可煎可烤速食好吃方便早餐上班族",
+        "likes": "2,959",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-20",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+3.32%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-3.68%",
+    "productHeat": null,
+    "productHeatMoM": "+2.28%",
+    "salesHeat": null,
+    "salesHeatMoM": "-1.95%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+1.77%",
+    "perLive": {
+      "gpm": "7.2w",
+      "gpmMoM": "+9.79%",
+      "atv": "97.22",
+      "atvMoM": "+0.53%",
+      "uvValue": "10+",
+      "uvValueMoM": "+9.79%",
+      "views": "1w",
+      "viewsMoM": "-2.79%",
+      "avgOnline": "141",
+      "avgOnlineMoM": "-0.7%",
+      "avgStay": "2′2′′",
+      "avgStayMoM": "+1.30%"
+    }
+  }
+}

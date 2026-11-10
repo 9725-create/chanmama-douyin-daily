@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-24T02:09:57.494Z",
+  "queryDate": "2026-09-23",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-23",
+    "date": "2026-09-23",
+    "top5": [
+      {
+        "rank": "",
+        "name": "陈伯(全能王) keyis153",
+        "verify": "",
+        "followerGain": "16.7w",
+        "followers": "2,487.9w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "HangHang HHang02",
+        "verify": "",
+        "followerGain": "16.5w",
+        "followers": "1,238.1w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "衣衣金铲铲 27988294622",
+        "verify": "",
+        "followerGain": "13.6w",
+        "followers": "204.5w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": ".小幸运.（9月23生日庆典，擂台启动） bbkxhmy0925",
+        "verify": "",
+        "followerGain": "13.2w",
+        "followers": "962.1w",
+        "products": "2"
+      },
+      {
+        "rank": "5",
+        "name": "美猴王小李 xl230926",
+        "verify": "",
+        "followerGain": "12.6w",
+        "followers": "176.8w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-23",
+    "date": "2026-09-23",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "无畏契约 valorantChina",
+        "sales": "1000w+ 12,659,833",
+        "volume": "25w~50w 68,531",
+        "atv": "300~400",
+        "followers": "460.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "17",
+        "name": "兰知春序 83033400459",
+        "sales": "1000w+ 12,545,782",
+        "volume": "10w~50w 33,010",
+        "atv": "800~900",
+        "followers": "636.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "2",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 6,265,452",
+        "volume": "50w~100w 140,612",
+        "atv": "50~100",
+        "followers": "3,960.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4 59",
+        "name": "东方甄选美丽生活 95144913203",
+        "sales": "1000w+ 4,177,091",
+        "volume": "2w~10w 11,872",
+        "atv": "700~800",
+        "followers": "589.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "刘叮当🔔轻奢女包 LiuDingDang",
+        "sales": "1000w+ 3,606,770",
+        "volume": "2w~10w 17,280",
+        "atv": "400~500",
+        "followers": "863.2w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-23",
+    "top10": [
+      {
+        "creator": "甜甜果鲜",
+        "fans": "1.5w",
+        "publishTime": "09/21 17:00",
+        "product": "【送货上门】两斤80-110个丹东软枣猕猴桃奇异莓放软食用坏果包赔",
+        "likes": "3,567",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "大蚊子的两个皮夹克",
+        "fans": "23.2w",
+        "publishTime": "09/21 11:22",
+        "product": "新鲜信农田苹果酸甜爽口酥脆孕妇可食鲜果现摘现发",
+        "likes": "7,084",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小琦很哇塞",
+        "fans": "52.2w",
+        "publishTime": "09/22 11:41",
+        "product": "【蕉新】焕新标内衣燕麦格雷山茶花超薄固定杯垫文胸防下垂无痕文胸",
+        "likes": "4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "西瓜爱揍饭",
+        "fans": "6",
+        "publishTime": "09/21 09:35",
+        "product": "玉米浆包东北新鲜糯玉米粗粮早餐香甜健康胚芽鲜嫩饱腹玉米馍",
+        "likes": "3,638",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "蕙蕙爱分享",
+        "fans": "14.5w",
+        "publishTime": "09/21 18:15",
+        "product": "【蕙蕙专属】长袖多款可爱卡通甜美睡衣女孩春秋季学生家居服",
+        "likes": "3,167",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "李大宝的日常",
+        "fans": "3.5w",
+        "publishTime": "09/21 16:22",
+        "product": "【抢5袋】莲花味精家用小包烹调小炒佐餐提鲜调味味精煲袋装调料",
+        "likes": "1,995",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "两朵花测评",
+        "fans": "132w",
+        "publishTime": "09/21 17:47",
+        "product": "切葱丝神器擦丝豆角切丝器辣椒大葱拉丝刀厨房多功能切菜器葱福利",
+        "likes": "5,106",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "代代美食屋",
+        "fans": "275.9w",
+        "publishTime": "09/22 18:00",
+        "product": "到手4根】每日赞超长长长条蛋挞网红爆品短保健康早餐下午茶打卡",
+        "likes": "3,418",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "双人鱼吖～",
+        "fans": "1.8w",
+        "publishTime": "09/21 12:10",
+        "product": "WW（到手30个）迷你小月饼老式五仁味中秋糕点零食",
+        "likes": "939",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-23",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-2.13%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+0.29%",
+    "productHeat": null,
+    "productHeatMoM": "-1.51%",
+    "salesHeat": null,
+    "salesHeatMoM": "-28.66%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-22.97%",
+    "perLive": {
+      "gpm": "9.6w",
+      "gpmMoM": "+20.47%",
+      "atv": "118.83",
+      "atvMoM": "+8.52%",
+      "uvValue": "10+",
+      "uvValueMoM": "+20.46%",
+      "views": "1.1w",
+      "viewsMoM": "+8.46%",
+      "avgOnline": "147",
+      "avgOnlineMoM": "+33.64%",
+      "avgStay": "1′44′′",
+      "avgStayMoM": "+14.94%"
+    }
+  }
+}

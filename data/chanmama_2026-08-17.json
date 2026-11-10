@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-18T01:15:57.707Z",
+  "queryDate": "2026-08-17",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-17",
+    "date": "2026-08-17",
+    "top5": [
+      {
+        "rank": "7",
+        "name": "陈泽- 9896719.",
+        "verify": "",
+        "followerGain": "14.9w",
+        "followers": "3,864.4w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "清柠 xiannanguaya2017",
+        "verify": "",
+        "followerGain": "14.1w",
+        "followers": "488.9w",
+        "products": "0"
+      },
+      {
+        "rank": "37",
+        "name": "coke老师 Ccoke",
+        "verify": "",
+        "followerGain": "13.4w",
+        "followers": "1,086.9w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "妖妖剧场 ydn19930123",
+        "verify": "东莞市宜鑫建筑有限公司",
+        "followerGain": "12.6w",
+        "followers": "35.4w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "11.5w",
+        "followers": "2,514.2w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-17",
+    "date": "2026-08-17",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 5,649,623",
+        "volume": "10w~50w 45,548",
+        "atv": "200~300",
+        "followers": "3,912.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "东方甄选美丽生活 95144913203",
+        "sales": "1000w+ 4,406,666",
+        "volume": "2w~10w 7,641",
+        "atv": "1200~1400",
+        "followers": "576.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "川味小夫妻 双妹 cwxfq416988",
+        "sales": "1000w+ 2,413,830",
+        "volume": "5000~1w 1,367",
+        "atv": "4400~4600",
+        "followers": "459.5w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "4",
+        "name": "兰知春序 83033400459",
+        "sales": "1000w+ 2,229,229",
+        "volume": "10w~50w 18,524",
+        "atv": "200~300",
+        "followers": "622.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "东方甄选 dongfangzhenxuan",
+        "sales": "1000w+ 2,175,973",
+        "volume": "10w~50w 20,232",
+        "atv": "100~200",
+        "followers": "2,837.6w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-17",
+    "top10": [
+      {
+        "creator": "雪儿家常菜",
+        "fans": "6w",
+        "publishTime": "08/15 19:03",
+        "product": "【周黑鸭官方】正宗周黑鸭卤料4斤！鸭货黑鸭卤肉配方现捞调料卤汁",
+        "likes": "4w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小徐朵朵",
+        "fans": "1.9w",
+        "publishTime": "08/15 12:02",
+        "product": "【买3发5】清洁杯子不用刷洗茶渍奶渍咖啡渍清洁好物水杯泡腾片",
+        "likes": "3,925",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小煤气罐罐",
+        "fans": "10.8w",
+        "publishTime": "08/15 13:55",
+        "product": "月半弯加厚大包抽纸6/24包实惠装纸巾家用卫生纸可湿水面巾纸抽MY",
+        "likes": "127",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "颂柳百货分享",
+        "fans": "34.5w",
+        "publishTime": "08/15 23:29",
+        "product": "F2 四川大凉山会理突尼斯软籽石榴新鲜爆甜多汁孕妇水果坏果包赔",
+        "likes": "5,710",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "白夕（和平集市入口）",
+        "fans": "15.1w",
+        "publishTime": "08/15 13:50",
+        "product": "【和平集市】剑来 幸运币特惠礼包【和平精英官方直充】",
+        "likes": "6,154",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "大刘评测",
+        "fans": "112.8w",
+        "publishTime": "08/16 22:00",
+        "product": "【七夕送礼爆款】飞科新一代往复式便携男士防水小型电动剃须刀-F8",
+        "likes": "3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "咖喱虾大王",
+        "fans": "4",
+        "publishTime": "08/16 00:02",
+        "product": "【六味地黄】纯耕六味地黄枸杞原浆当归茯苓山药熟地红黑枸杞原浆CS",
+        "likes": "3.3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "聚味优品",
+        "fans": "13.4w",
+        "publishTime": "08/15 16:10",
+        "product": "屹味圆【3袋18包】地道红烧酱汁红烧肉红烧排骨120G/袋",
+        "likes": "1.3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "燃燃姐姐",
+        "fans": "1.8w",
+        "publishTime": "08/16 02:08",
+        "product": "MARIE.COCO韩系高级感高领无袖打底衫叠穿V领针织衫女阔腿裤套装",
+        "likes": "1.1w",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-17",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-10.09%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+18.90%",
+    "productHeat": null,
+    "productHeatMoM": "+13.74%",
+    "salesHeat": null,
+    "salesHeatMoM": "+25.73%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+17.25%",
+    "perLive": {
+      "gpm": "7.3w",
+      "gpmMoM": "+17.28%",
+      "atv": "99.89",
+      "atvMoM": "-0.69%",
+      "uvValue": "10+",
+      "uvValueMoM": "+17.28%",
+      "views": "1.1w",
+      "viewsMoM": "-3.51%",
+      "avgOnline": "43",
+      "avgOnlineMoM": "-70.95%",
+      "avgStay": "29′′",
+      "avgStayMoM": "-75.7%"
+    }
+  }
+}

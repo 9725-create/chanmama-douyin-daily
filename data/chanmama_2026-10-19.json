@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-10-20T01:45:00.554Z",
+  "queryDate": "2026-10-19",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-10-19",
+    "date": "2026-10-19",
+    "top5": [
+      {
+        "rank": "",
+        "name": "茉莉奶白 Mollytea2021",
+        "verify": "商家认证账号",
+        "followerGain": "55.5w",
+        "followers": "548.6w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "神奇阿宇 88452723539",
+        "verify": "",
+        "followerGain": "33.6w",
+        "followers": "196.1w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "多年19号婚礼 20 21日早8点发喜糖 Zn6666i",
+        "verify": "",
+        "followerGain": "22.2w",
+        "followers": "176.8w",
+        "products": "1"
+      },
+      {
+        "rank": "4",
+        "name": "ETTIKA欣瑶好物 31552084506",
+        "verify": "江西欣瑶传媒有限公司",
+        "followerGain": "20.1w",
+        "followers": "297.8w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "陈伯 FF9985521",
+        "verify": "",
+        "followerGain": "17.9w",
+        "followers": "345.6w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-10-19",
+    "date": "2026-10-19",
+    "top5": [
+      {
+        "rank": "",
+        "name": "洛哥AP➤20号19点45分 晚上见～ lluo9527",
+        "sales": "1000w+ 7,790,689",
+        "volume": "10w~25w 24,856",
+        "atv": "600~700",
+        "followers": "225.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 5,488,593",
+        "volume": "50w~100w 113,054",
+        "atv": "50~100",
+        "followers": "3,988.2w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "王一楠 yinanyinan__wang 首次上榜",
+        "sales": "1000w+ 4,678,621",
+        "volume": "10w~50w 24,246",
+        "atv": "300~400",
+        "followers": "298.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "央视网 cctv.com",
+        "sales": "1000w+ 2,762,317",
+        "volume": "2w~10w 16,208",
+        "atv": "300~400",
+        "followers": "7,343.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "阿雅 1444985458",
+        "sales": "1000w+ 2,542,475",
+        "volume": "5000~2w 3,130",
+        "atv": "1800~2000",
+        "followers": "178.8w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-10-19",
+    "top10": [
+      {
+        "creator": "拧拧",
+        "fans": "3.5w",
+        "publishTime": "10/17 17:21",
+        "product": "次抛生理性盐水15ml湿敷清洗液0.9%氯化钠日常清洁小支清洗液",
+        "likes": "1.1w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "鼠鼠大王🐭",
+        "fans": "5",
+        "publishTime": "10/17 17:31",
+        "product": "椰丝发缝梳猪鬃毛窄齿梳美发双层打毛梳发根蓬松造型长柄尖尾盘发",
+        "likes": "2.9w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "张同学.",
+        "fans": "1",
+        "publishTime": "10/17 15:00",
+        "product": "【北大博士科研成果】BOP修护牙膏羟基磷灰石抗敏含氟热销官方正品z",
+        "likes": "8.2w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "秒变食神",
+        "fans": "524.3w",
+        "publishTime": "10/17 15:27",
+        "product": "妙丫头 鲜河粉6桶装香辣牛肉味泡椒牛肉味1秒速冲方便即食非油炸",
+        "likes": "9,242",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "蛇姨没疯🐍",
+        "fans": "82.6w",
+        "publishTime": "10/17 00:06",
+        "product": "【TUNEE GOODS联名款套组】YOUFE有感度假系列小金砖水柔卸妆膏温和",
+        "likes": "1w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "王校长家",
+        "fans": "59.7w",
+        "publishTime": "10/17 00:30",
+        "product": "尼博格保罗冬季加绒加厚棉衣防风保暖中老年休闲宽松大码立领棉服",
+        "likes": "48",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "宥宥的小铺",
+        "fans": "1.1w",
+        "publishTime": "10/18 14:08",
+        "product": "【老树柚子】白心蜜柚水晶柚白心柚新鲜非文旦柚高山水果白心蜜柚",
+        "likes": "6,495",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "土豆不土啊",
+        "fans": "4.3w",
+        "publishTime": "10/17 22:12",
+        "product": "清风挂抽10提卡皮巴拉纸巾整箱悬挂式抽纸4层加厚250抽家用卫生纸",
+        "likes": "6,205",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "萝北的吃吃",
+        "fans": "113.8w",
+        "publishTime": "10/17 18:54",
+        "product": "果然少年任选5件】冻干草莓脆无添加苹果干杏脯芒果芭乐菠萝蜜香菇",
+        "likes": "2,206",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-10-19",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+5.03%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+9.46%",
+    "productHeat": null,
+    "productHeatMoM": "+2.14%",
+    "salesHeat": null,
+    "salesHeatMoM": "+12.69%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+7.19%",
+    "perLive": {
+      "gpm": "5.9w",
+      "gpmMoM": "+13.80%",
+      "atv": "133.48",
+      "atvMoM": "-2.45%",
+      "uvValue": "10+",
+      "uvValueMoM": "+13.80%",
+      "views": "1.3w",
+      "viewsMoM": "+10.58%",
+      "avgOnline": "48",
+      "avgOnlineMoM": "-70.37%",
+      "avgStay": "25′′",
+      "avgStayMoM": "-77.49%"
+    }
+  }
+}

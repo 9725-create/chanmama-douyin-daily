@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-11T02:37:23.822Z",
+  "queryDate": "2026-08-10",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-10",
+    "date": "2026-08-10",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "旭旭宝宝 renyixu1989",
+        "verify": "游戏主播",
+        "followerGain": "37.4w",
+        "followers": "2,657.9w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "凡凡吃垮上海 98675330782",
+        "verify": "",
+        "followerGain": "13.4w",
+        "followers": "95.4w",
+        "products": "0"
+      },
+      {
+        "rank": "12",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "13.1w",
+        "followers": "2,435.5w",
+        "products": "0"
+      },
+      {
+        "rank": "4 26",
+        "name": "伯爵剧场 lzw996886",
+        "verify": "广西盛祯文化传媒有限公司",
+        "followerGain": "12.6w",
+        "followers": "807.7w",
+        "products": "0"
+      },
+      {
+        "rank": "5 233",
+        "name": "古茗 GoodMeOfficial",
+        "verify": "商家认证账号",
+        "followerGain": "11.7w",
+        "followers": "2,350.5w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-10",
+    "date": "2026-08-10",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 7,794,084",
+        "volume": "50w~100w 109,831",
+        "atv": "100~200",
+        "followers": "3,908.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "MRHALA MRHALA",
+        "sales": "1000w+ 2,650,510",
+        "volume": "2.5w~5w 8,867",
+        "atv": "600~700",
+        "followers": "75.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "唐发发 TANGFAFA888",
+        "sales": "1000w+ 1,610,874",
+        "volume": "2.5w~5w 6,316",
+        "atv": "400~500",
+        "followers": "86.2w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "老郑美伦美玉珠宝 M5181718",
+        "sales": "1000w+ 1,430,422",
+        "volume": "2w~10w 4,846",
+        "atv": "500~600",
+        "followers": "40.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "朱丹 1695423013",
+        "sales": "1000w+ 1,127,388",
+        "volume": "2w~10w 11,461",
+        "atv": "100~200",
+        "followers": "302.1w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-10",
+    "top10": [
+      {
+        "creator": "书成（王者小店在橱窗）",
+        "fans": "59.9w",
+        "publishTime": "08/08 00:06",
+        "product": "心魔六耳-未来纪元【王者荣耀官方】<自动充值>",
+        "likes": "4.5w",
+        "sales": "5w~10w"
+      },
+      {
+        "creator": "蓝尾-和平集市（主页橱窗选购）",
+        "fans": "388.9w",
+        "publishTime": "08/08 09:51",
+        "product": "【和平集市】剑来 厚德载物语音包礼包【和平精英官方直充】",
+        "likes": "4.8w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "长炘（王者小店在橱窗）",
+        "fans": "60.8w",
+        "publishTime": "08/08 01:32",
+        "product": "心魔六耳-未来纪元【王者荣耀官方】<自动充值>",
+        "likes": "9,627",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "轩轩（狼系皮肤在橱窗）",
+        "fans": "262.4w",
+        "publishTime": "08/08 00:03",
+        "product": "心魔六耳-未来纪元【王者荣耀官方】<自动充值>",
+        "likes": "1.8w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "木烟晨",
+        "fans": "271.4w",
+        "publishTime": "08/08 00:43",
+        "product": "澜无双祈愿币礼包10抽【王者荣耀官方】<自动充值>",
+        "likes": "2.9w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "杆哥（国服芈月）",
+        "fans": "270.4w",
+        "publishTime": "08/08 00:14",
+        "product": "【超前售】百里守约暗夜巡卫超值皮肤礼包【王者荣耀官方】<自动充值>",
+        "likes": "1.7w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "浪子苏（王者小店在橱窗）",
+        "fans": "83.5w",
+        "publishTime": "08/08 00:30",
+        "product": "心魔六耳-未来纪元【王者荣耀官方】<自动充值>",
+        "likes": "3,923",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "木烟晨",
+        "fans": "271.4w",
+        "publishTime": "08/08 00:08",
+        "product": "心魔六耳-未来纪元【王者荣耀官方】<自动充值>",
+        "likes": "4,857",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "黑羽",
+        "fans": "167w",
+        "publishTime": "08/08 00:16",
+        "product": "心魔六耳-未来纪元【王者荣耀官方】<自动充值>",
+        "likes": "1.7w",
+        "sales": "1w~2.5w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-10",
+    "updatedAt": "10:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-2.63%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+19.95%",
+    "productHeat": null,
+    "productHeatMoM": "+16.18%",
+    "salesHeat": null,
+    "salesHeatMoM": "+35.68%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+17.31%",
+    "perLive": {
+      "gpm": "5.1w",
+      "gpmMoM": "+12.92%",
+      "atv": "111.39",
+      "atvMoM": "+2.46%",
+      "uvValue": "10+",
+      "uvValueMoM": "+12.93%",
+      "views": "1.1w",
+      "viewsMoM": "+8.17%",
+      "avgOnline": "149",
+      "avgOnlineMoM": "+24.17%",
+      "avgStay": "1′45′′",
+      "avgStayMoM": "+12.92%"
+    }
+  }
+}

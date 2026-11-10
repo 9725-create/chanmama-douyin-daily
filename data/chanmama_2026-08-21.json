@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-22T01:50:57.196Z",
+  "queryDate": "2026-08-21",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-21",
+    "date": "2026-08-21",
+    "top5": [
+      {
+        "rank": "8",
+        "name": "思懿-边城刀客 fcsz2019",
+        "verify": "",
+        "followerGain": "26w",
+        "followers": "546.4w",
+        "products": "1"
+      },
+      {
+        "rank": "1",
+        "name": "梦幻老王 （白天11:30播） 73796455215",
+        "verify": "",
+        "followerGain": "21.1w",
+        "followers": "159.1w",
+        "products": "0"
+      },
+      {
+        "rank": "11",
+        "name": "心动书屋 320748qiu",
+        "verify": "",
+        "followerGain": "17.2w",
+        "followers": "35.1w",
+        "products": "0"
+      },
+      {
+        "rank": "4 16",
+        "name": "迪士尼在逃公主👸 60829777",
+        "verify": "",
+        "followerGain": "16.6w",
+        "followers": "761.8w",
+        "products": "0"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "白泽（三角洲行动） 66611144541",
+        "verify": "",
+        "followerGain": "15w",
+        "followers": "1,132.1w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-21",
+    "date": "2026-08-21",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,183,791",
+        "volume": "50w~100w 86,899",
+        "atv": "50~100",
+        "followers": "3,913.7w",
+        "category": "综合",
+        "sessions": "3"
+      },
+      {
+        "rank": "",
+        "name": "热热 118227742",
+        "sales": "1000w+ 3,221,055",
+        "volume": "1w~2.5w 4,028",
+        "atv": "2200~2400",
+        "followers": "156.3w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "兰知春序 83033400459",
+        "sales": "1000w+ 2,037,689",
+        "volume": "10w~50w 21,008",
+        "atv": "50~100",
+        "followers": "624.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "娘娘NNS PPMM88",
+        "sales": "1000w+ 1,744,294",
+        "volume": "2.5w~5w 7,846",
+        "atv": "400~500",
+        "followers": "81w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "162江江的home（8月7日秋季大上新 22845694663",
+        "sales": "1000w+ 1,588,191",
+        "volume": "1w~2.5w 3,402",
+        "atv": "900~1000",
+        "followers": "73.4w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-21",
+    "top10": [
+      {
+        "creator": "Hi饭美食",
+        "fans": "450.8w",
+        "publishTime": "08/19 16:18",
+        "product": "恋茶缘青竹梅酱排骨酸甜带咸纯梅熬制糖醋排骨烧肉烧鸭蘸酱梅子酱",
+        "likes": "1.1w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "猴哥的小生活",
+        "fans": "97.1w",
+        "publishTime": "08/19 17:45",
+        "product": "【小鱼海棠推荐】BOP色修美白牙膏去黄去渍官方正品口臭清新热销ko",
+        "likes": "13.2w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "艳子姐姐",
+        "fans": "7.4w",
+        "publishTime": "08/19 17:11",
+        "product": "【外贸清货】爆款软壳连帽冲锋衣外套防风防水情侣款户外休闲上衣",
+        "likes": "4,029",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "泡面小生",
+        "fans": "5.2w",
+        "publishTime": "08/19 11:48",
+        "product": "【黑鸭火鸡面】泡面先生定制141g速食哇噻面面饼美食火鸡面拌面吃播",
+        "likes": "1.2w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小蚊子吖",
+        "fans": "22.3w",
+        "publishTime": "08/19 13:09",
+        "product": "新鲜甜糯玉米软糯香甜现摘现摘现发 7-9个 4.5-5斤",
+        "likes": "8,619",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "一只布丁狗🍮",
+        "fans": "5.7w",
+        "publishTime": "08/19 20:54",
+        "product": "【9.9福利限时购】babycare纯水湿巾纯水亲肤柔软10抽8包加厚加大",
+        "likes": "1.4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "玖柒来了",
+        "fans": "4.2w",
+        "publishTime": "08/19 14:37",
+        "product": "【开学必备】德佑婴儿湿巾小包便携学生儿童用加厚一次性手口湿纸巾",
+        "likes": "1,941",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "爆丹妈妈",
+        "fans": "7.3w",
+        "publishTime": "08/19 15:21",
+        "product": "新华【更新手抄报】10分钟快速搞定手抄报 家长必备神器 小学通用",
+        "likes": "20",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "住财哥",
+        "fans": "179.7w",
+        "publishTime": "08/20 10:01",
+        "product": "【小鱼海棠推荐】BOP色修美白牙膏去黄去渍官方正品口臭清新热销ko",
+        "likes": "1.5w",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-21",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-3.23%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+10.60%",
+    "productHeat": null,
+    "productHeatMoM": "-2.72%",
+    "salesHeat": null,
+    "salesHeatMoM": "+6.99%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+6.60%",
+    "perLive": {
+      "gpm": "7.1w",
+      "gpmMoM": "-1.32%",
+      "atv": "96.73",
+      "atvMoM": "-0.5%",
+      "uvValue": "10+",
+      "uvValueMoM": "-1.33%",
+      "views": "1.1w",
+      "viewsMoM": "+11.22%",
+      "avgOnline": "156",
+      "avgOnlineMoM": "+10.64%",
+      "avgStay": "1′59′′",
+      "avgStayMoM": "-2.49%"
+    }
+  }
+}

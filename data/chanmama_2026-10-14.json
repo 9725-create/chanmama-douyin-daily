@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-10-15T02:00:52.020Z",
+  "queryDate": "2026-10-14",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-10-14",
+    "date": "2026-10-14",
+    "top5": [
+      {
+        "rank": "",
+        "name": "ETTIKA欣瑶好物 31552084506",
+        "verify": "江西欣瑶传媒有限公司",
+        "followerGain": "20.3w",
+        "followers": "186.6w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "NaNaomi 100958772",
+        "verify": "",
+        "followerGain": "17.6w",
+        "followers": "26.2w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "贾冰开饭啦 60583492618",
+        "verify": "",
+        "followerGain": "12.7w",
+        "followers": "212.8w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": "CHAGEE霸王茶姬 CHAGEE2017",
+        "verify": "CHAGEE霸王茶姬官方账号",
+        "followerGain": "10.4w",
+        "followers": "1,455.8w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "梦儿爱生活 34002432452",
+        "verify": "",
+        "followerGain": "10.1w",
+        "followers": "103.4w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-10-14",
+    "date": "2026-10-14",
+    "top5": [
+      {
+        "rank": "",
+        "name": "金川黄金官方旗舰店 92086381862",
+        "sales": "1000w+ 7,818,882",
+        "volume": "5w~10w 12,628",
+        "atv": "1200~1400",
+        "followers": "83.3w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 5,973,034",
+        "volume": "100w+ 152,143",
+        "atv": "50~100",
+        "followers": "3,973.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "农村幺哥10月14.15开业及周年庆典 2181006760",
+        "sales": "1000w+ 5,396,561",
+        "volume": "10w~50w 48,617",
+        "atv": "200~300",
+        "followers": "544.7w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "4",
+        "name": "ally a11y222",
+        "sales": "1000w+ 3,465,019",
+        "volume": "2w~10w 5,869",
+        "atv": "50~100",
+        "followers": "458.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "阿雅 1444985458",
+        "sales": "1000w+ 3,415,938",
+        "volume": "5000~2w 4,126",
+        "atv": "1800~2000",
+        "followers": "177.2w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-10-14",
+    "top10": [
+      {
+        "creator": "🥦",
+        "fans": "18.3w",
+        "publishTime": "10/12 17:42",
+        "product": "无尘擦镜纸除静电除尘纸巾吸水吸油抽取式盒装厨房清洁油污擦拭",
+        "likes": "7,151",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "何二园子🌹",
+        "fans": "8.9w",
+        "publishTime": "10/12 10:17",
+        "product": "网红恩施黄心小土豆呀新鲜蔬菜3/5/9斤迷你马铃薯洋芋[粉糯香甜]",
+        "likes": "5,347",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "凤凤（家常美食）",
+        "fans": "63.5w",
+        "publishTime": "10/12 21:05",
+        "product": "【达人专属】好人家 五香/香辣老卤汁调料120g卤料小包装家庭日用卤料FY",
+        "likes": "1.8w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "><金豆子>",
+        "fans": "4.7w",
+        "publishTime": "10/13 06:04",
+        "product": "新款茉莉花香皂天然温和洗脸洗澡沐浴清洁皂",
+        "likes": "2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "味蕾食光",
+        "fans": "223.1w",
+        "publishTime": "10/12 14:19",
+        "product": "馥食集【0脂肪0蔗糖】关东煮调味汁寿喜烧火锅底料便利店同款风味",
+        "likes": "3,900",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "我是都是洞",
+        "fans": "491.8w",
+        "publishTime": "10/13 18:00",
+        "product": "【顺丰包邮】泰山油栗饱满新鲜板栗生板栗高山油栗生新鲜泰山油栗子",
+        "likes": "1w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "娜姐针线活",
+        "fans": "46.7w",
+        "publishTime": "10/12 19:28",
+        "product": "花边手工剪刀齿形剪布料裁缝剪衣服",
+        "likes": "9,248",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "曾大哥",
+        "fans": "211.7w",
+        "publishTime": "10/12 16:02",
+        "product": "xiaoyujiadao/小鱼驾到【抗菌袜】四季棉袜男女短中筒棉袜",
+        "likes": "9,426",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "树人方舟（海北老师）",
+        "fans": "76.8w",
+        "publishTime": "10/12 10:18",
+        "product": "熊猫康吉的远行(美绘注音)原创获奖儿童文学讲述母爱与成长3-12岁",
+        "likes": "3,549",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-10-14",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+4.34%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+34.15%",
+    "productHeat": null,
+    "productHeatMoM": "+3.76%",
+    "salesHeat": null,
+    "salesHeatMoM": "+50.21%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-27.07%",
+    "perLive": {
+      "gpm": "4.1w",
+      "gpmMoM": "-25.02%",
+      "atv": "177.34",
+      "atvMoM": "+60.62%",
+      "uvValue": "10+",
+      "uvValueMoM": "-25.02%",
+      "views": "1.5w",
+      "viewsMoM": "+51.88%",
+      "avgOnline": "199",
+      "avgOnlineMoM": "+49.62%",
+      "avgStay": "1′52′′",
+      "avgStayMoM": "+2.16%"
+    }
+  }
+}

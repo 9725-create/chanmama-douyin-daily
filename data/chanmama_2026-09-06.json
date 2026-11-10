@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-07T01:58:42.712Z",
+  "queryDate": "2026-09-06",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-06",
+    "date": "2026-09-06",
+    "top5": [
+      {
+        "rank": "89",
+        "name": "王浩宇Whys Whys010821",
+        "verify": "",
+        "followerGain": "45.3w",
+        "followers": "924.1w",
+        "products": "0"
+      },
+      {
+        "rank": "1",
+        "name": "陈泽- 9896719.",
+        "verify": "",
+        "followerGain": "20.6w",
+        "followers": "4,281.5w",
+        "products": "0"
+      },
+      {
+        "rank": "70",
+        "name": "阿哲 y522893",
+        "verify": "",
+        "followerGain": "17.7w",
+        "followers": "1,045.1w",
+        "products": "0"
+      },
+      {
+        "rank": "4 2",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "11.8w",
+        "followers": "2,724.2w",
+        "products": "0"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "阿欢 ah1016520",
+        "verify": "",
+        "followerGain": "11.7w",
+        "followers": "97.9w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-06",
+    "date": "2026-09-06",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 8,126,723",
+        "volume": "10w~50w 42,720",
+        "atv": "300~400",
+        "followers": "3,928.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "刘媛媛·媛之有物 liuyuanyuan1991",
+        "sales": "1000w+ 6,720,133",
+        "volume": "10w~50w 29,828",
+        "atv": "400~500",
+        "followers": "2,412.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP lluo9527",
+        "sales": "1000w+ 5,035,578",
+        "volume": "5w~10w 16,181",
+        "atv": "600~700",
+        "followers": "216.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "蘑糯糯Monoo Monoo0003",
+        "sales": "1000w+ 4,685,855",
+        "volume": "25w~50w 51,050",
+        "atv": "100~200",
+        "followers": "178.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "幸福一家人周甜丽 li2808628000",
+        "sales": "1000w+ 4,381,300",
+        "volume": "5000~2w 4,133",
+        "atv": "2400~2600",
+        "followers": "1,350w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-06",
+    "top10": [
+      {
+        "creator": "大宝小老弟(三角洲行动)",
+        "fans": "236.1w",
+        "publishTime": "09/04 11:53",
+        "product": "【三角洲行动】S11通行证",
+        "likes": "8.8w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "白泽（三角洲行动）",
+        "fans": "1",
+        "publishTime": "09/04 17:50",
+        "product": "【三角洲行动】S11通行证",
+        "likes": "5.8w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "邵老五(八月二十八满月酒/工厂开业)",
+        "fans": "64.1w",
+        "publishTime": "09/04 11:51",
+        "product": "春秋外套爆款2026新款登山冲锋外套夹克运动休闲加大码可定制工装",
+        "likes": "1.5w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "四元子",
+        "fans": "9.2w",
+        "publishTime": "09/04 11:19",
+        "product": "【A】那柚素描眼线胶笔铅笔不晕染防水防汗持久下至黑棕色全包古早",
+        "likes": "5,956",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "甜久久（冲刺版）",
+        "fans": "63.1w",
+        "publishTime": "09/04 09:00",
+        "product": "【爆款4副送4盒假睫毛】朵秀三明治水润舒适氛围感半年抛温柔美瞳Q",
+        "likes": "8,648",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "无穷小亮的科普日常",
+        "fans": "2",
+        "publishTime": "09/05 13:39",
+        "product": "【博集】中国神仙 中国妖鬼 马伯庸无穷小亮 国家地理中华遗产出品",
+        "likes": "4.3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "大天才花花",
+        "fans": "16.7w",
+        "publishTime": "09/04 16:24",
+        "product": "【暧昧】小众香氛喷雾剂花花调香室持久留香淡香室内衣柜香薰喷雾剂",
+        "likes": "4.4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "邪恶小薯条百货",
+        "fans": "1.7w",
+        "publishTime": "09/04 00:03",
+        "product": "韩系星空壳珠链挂绳秒变18适用苹果17/16华为vivoppo小米15手机壳",
+        "likes": "4,382",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "怡见倾芯",
+        "fans": "1.7w",
+        "publishTime": "09/04 13:25",
+        "product": "大码胖mm早秋韩系气质条纹开衫高腰弯刀裤宽松显瘦休闲阔腿三件套",
+        "likes": "7,206",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-06",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+6.49%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-19.16%",
+    "productHeat": null,
+    "productHeatMoM": "+9.67%",
+    "salesHeat": null,
+    "salesHeatMoM": "-0.94%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-2.21%",
+    "perLive": {
+      "gpm": "7.4w",
+      "gpmMoM": "+6.26%",
+      "atv": "104.48",
+      "atvMoM": "-0.01%",
+      "uvValue": "10+",
+      "uvValueMoM": "+6.25%",
+      "views": "9,498",
+      "viewsMoM": "-19.21%",
+      "avgOnline": "125",
+      "avgOnlineMoM": "-17.22%",
+      "avgStay": "1′55′′",
+      "avgStayMoM": "+1.37%"
+    }
+  }
+}

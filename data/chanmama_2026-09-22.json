@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-23T01:46:49.496Z",
+  "queryDate": "2026-09-22",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-22",
+    "date": "2026-09-22",
+    "top5": [
+      {
+        "rank": "",
+        "name": "衣衣金铲铲 27988294622",
+        "verify": "",
+        "followerGain": "49.7w",
+        "followers": "190.9w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "黄子韬 30s_club19930502",
+        "verify": "演员、歌手",
+        "followerGain": "38.2w",
+        "followers": "3,520.3w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "陈伯(全能王) keyis153",
+        "verify": "",
+        "followerGain": "15w",
+        "followers": "2,471.2w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": "🔥张教官的有趣人生 zhangjiaoguan",
+        "verify": "知名旅行领域创作者",
+        "followerGain": "13.6w",
+        "followers": "780.6w",
+        "products": "31"
+      },
+      {
+        "rank": "5",
+        "name": "李要得 LYD178",
+        "verify": "",
+        "followerGain": "10.8w",
+        "followers": "754.5w",
+        "products": "27"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-22",
+    "date": "2026-09-22",
+    "top5": [
+      {
+        "rank": "1",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,739,146",
+        "volume": "50w~100w 103,172",
+        "atv": "50~100",
+        "followers": "3,957.8w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "进榜",
+        "name": "陈赫 191433445",
+        "sales": "1000w+ 2,865,672",
+        "volume": "5000~2w 2,031",
+        "atv": "3600~3800",
+        "followers": "6,908.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "118",
+        "name": "老爸评测 daddylab",
+        "sales": "1000w+ 2,496,928",
+        "volume": "5000~2w 3,280",
+        "atv": "1600~1800",
+        "followers": "2,369.1w",
+        "category": "综合",
+        "sessions": "3"
+      },
+      {
+        "rank": "4 4",
+        "name": "老郑美伦美玉珠宝 M5181718",
+        "sales": "1000w+ 2,455,951",
+        "volume": "2w~10w 4,760",
+        "atv": "1000~1200",
+        "followers": "48.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "蓝战非 610521233",
+        "sales": "1000w+ 2,232,604",
+        "volume": "10w~50w 32,083",
+        "atv": "10~50",
+        "followers": "2,840.1w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-22",
+    "top10": [
+      {
+        "creator": "一粒妮妮",
+        "fans": "60w",
+        "publishTime": "09/20 09:58",
+        "product": "【蕉新】焕新标内衣燕麦格雷山茶花超薄固定杯垫文胸防下垂无痕文胸",
+        "likes": "3.7w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "于一一",
+        "fans": "92.9w",
+        "publishTime": "09/20 18:40",
+        "product": "【蕉新】焕新标内衣燕麦格雷山茶花超薄固定杯垫文胸防下垂无痕文胸",
+        "likes": "5.5w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小懒官方旗舰店",
+        "fans": "32.3w",
+        "publishTime": "09/20 08:04",
+        "product": "无纺布一次性加厚立体式方形圆形通用型空调防尘罩全包裹一拉一套",
+        "likes": "8,447",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "徐悠悠",
+        "fans": "81.6w",
+        "publishTime": "09/20 16:23",
+        "product": "Strange Tale咖啡因冰爽熬夜面膜三膜三效合一舒缓保湿10片+1片",
+        "likes": "3w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "大蚊子的两个皮夹克",
+        "fans": "23.2w",
+        "publishTime": "09/21 11:22",
+        "product": "新鲜信农田苹果酸甜爽口酥脆孕妇可食鲜果现摘现发",
+        "likes": "6,567",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "金铲铲小瑞（云顶）",
+        "fans": "10.3w",
+        "publishTime": "09/20 22:21",
+        "product": "【限时特售】宝库召唤连抽礼包合集【金铲铲之战官方授权】<自动充值>",
+        "likes": "3,969",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "梁可欣",
+        "fans": "90.7w",
+        "publishTime": "09/20 17:53",
+        "product": "染语看不见融肤精灵耳贴2.0隐形强支撑持久贴面耳立耳显脸小舒适",
+        "likes": "2,633",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "陆家嘴车夫",
+        "fans": "10.1w",
+        "publishTime": "09/20 19:35",
+        "product": "科净威【出风口香薰】车载香薰持久留香车内饰品摆件高级香水",
+        "likes": "6,625",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "羿宸妈妈",
+        "fans": "21.2w",
+        "publishTime": "09/20 15:58",
+        "product": "奇古堂高颜值简约陶瓷儿童牛奶杯女便携吸管随手杯学生保冷保温杯",
+        "likes": "6,096",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-22",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-0.01%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-3.88%",
+    "productHeat": null,
+    "productHeatMoM": "-1.37%",
+    "salesHeat": null,
+    "salesHeatMoM": "+3.13%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-5.10%",
+    "perLive": {
+      "gpm": "8.9w",
+      "gpmMoM": "-7.27%",
+      "atv": "109.54",
+      "atvMoM": "+0.52%",
+      "uvValue": "10+",
+      "uvValueMoM": "-7.27%",
+      "views": "1.1w",
+      "viewsMoM": "+7.21%",
+      "avgOnline": "145",
+      "avgOnlineMoM": "-2.68%",
+      "avgStay": "1′51′′",
+      "avgStayMoM": "-4.13%"
+    }
+  }
+}

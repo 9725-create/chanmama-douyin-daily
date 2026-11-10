@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-28T02:49:32.208Z",
+  "queryDate": "2026-08-27",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-27",
+    "date": "2026-08-27",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "苗苗超爱吃🍔 1099388884",
+        "verify": "",
+        "followerGain": "25.6w",
+        "followers": "109.9w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "陈伯(全能王) keyis153",
+        "verify": "",
+        "followerGain": "19.7w",
+        "followers": "2,357w",
+        "products": "0"
+      },
+      {
+        "rank": "2",
+        "name": "橘子讲动漫 jiaman1888",
+        "verify": "娱乐视频自媒体",
+        "followerGain": "13.4w",
+        "followers": "330.5w",
+        "products": "1,232"
+      },
+      {
+        "rank": "4 12",
+        "name": "晓晓手工绘画 61486713813",
+        "verify": "",
+        "followerGain": "12.7w",
+        "followers": "82.1w",
+        "products": "0"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "心动的王者 dy1bpx7w16vtj",
+        "verify": "心动的王者事务所官方账号",
+        "followerGain": "11.2w",
+        "followers": "46.1w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-27",
+    "date": "2026-08-27",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 3,978,514",
+        "volume": "50w~100w 87,862",
+        "atv": "50~100",
+        "followers": "3,920.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "海锋 972077012",
+        "sales": "1000w+ 2,599,787",
+        "volume": "5w~10w 10,156",
+        "atv": "300~400",
+        "followers": "80w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "刘媛媛·27号学而思高端学习机开学大促 liuyuanyuan1991",
+        "sales": "1000w+ 2,543,060",
+        "volume": "5000~2w 1,767",
+        "atv": "10~50",
+        "followers": "2,408.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "刘叮当🔔定制女包 L.DINGDANG",
+        "sales": "1000w+ 2,505,096",
+        "volume": "10w~25w 19,119",
+        "atv": "200~300",
+        "followers": "522.3w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "5",
+        "name": "小小101❤️ wa101",
+        "sales": "1000w+ 1,826,440",
+        "volume": "10w~50w 40,315",
+        "atv": "50~100",
+        "followers": "1,949.6w",
+        "category": "综合",
+        "sessions": "4"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-27",
+    "top10": [
+      {
+        "creator": "是糖糖的精选小铺",
+        "fans": "1.3w",
+        "publishTime": "08/25 12:23",
+        "product": "【需放软 爆甜不涩】山西火晶蜜柿软柿子精选新鲜水果流心24-30个",
+        "likes": "3,330",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "晨妈爱分享",
+        "fans": "9",
+        "publishTime": "08/25 13:26",
+        "product": "（120只装）红色背心手提式家用加厚大号垃圾桶垃圾袋宿舍厨房客厅",
+        "likes": "1.1w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "婉凌",
+        "fans": "186.4w",
+        "publishTime": "08/25 09:20",
+        "product": "开学季卡皮巴拉卡通印花抽纸便携小包装加厚学生随身小方巾面巾纸",
+        "likes": "6,428",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "悠悠发饰",
+        "fans": "1.4w",
+        "publishTime": "08/25 22:04",
+        "product": "诗泊雅 隐形高颅顶插梳bb夹女公主头发夹侧边刘海夹掰掰夹",
+        "likes": "8,695",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "于宝儿yuki",
+        "fans": "101.4w",
+        "publishTime": "08/25 16:54",
+        "product": "【精选5副】KAMIYA半年抛美瞳水润自然清透显色百搭学生隐形眼镜",
+        "likes": "1.3w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "翰仔麻麻（分享版～）",
+        "fans": "2.8w",
+        "publishTime": "08/25 10:35",
+        "product": "女童裤子夏季薄款2026新款儿童冰丝速干运动裤中大童夏天外穿长裤",
+        "likes": "2,505",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "青青熙",
+        "fans": "3.3w",
+        "publishTime": "08/25 15:23",
+        "product": "去油膜虫胶夏季玻璃水汽车前挡强力去污清洁养护冬季防冻四季通用",
+        "likes": "1,517",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小煤气罐罐",
+        "fans": "11.3w",
+        "publishTime": "08/25 11:05",
+        "product": "雨萃抽纸纸巾开学必备随身便携小包抽纸整箱家用实惠装面巾纸抽",
+        "likes": "3,725",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "看资讯",
+        "fans": "10.1w",
+        "publishTime": "08/25 20:53",
+        "product": "【试吃2袋 到手7袋 】松茸红烧酱汁红烧肉大棒骨红烧排骨调味酱CL",
+        "likes": "3,535",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-27",
+    "updatedAt": "10:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+2.04%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+2.15%",
+    "productHeat": null,
+    "productHeatMoM": "+0.43%",
+    "salesHeat": null,
+    "salesHeatMoM": "-1.94%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+20.01%",
+    "perLive": {
+      "gpm": "5w",
+      "gpmMoM": "-26.62%",
+      "atv": "114.81",
+      "atvMoM": "+6.82%",
+      "uvValue": "10+",
+      "uvValueMoM": "-26.61%",
+      "views": "1w",
+      "viewsMoM": "-3.23%",
+      "avgOnline": "112",
+      "avgOnlineMoM": "-0.88%",
+      "avgStay": "1′33′′",
+      "avgStayMoM": "-4.22%"
+    }
+  }
+}

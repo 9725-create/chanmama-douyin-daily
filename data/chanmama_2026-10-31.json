@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-11-03T02:13:00.689Z",
+  "queryDate": "2026-10-31",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-10-31",
+    "date": "2026-10-31",
+    "top5": [
+      {
+        "rank": "",
+        "name": "Michael大麦哥 104274995",
+        "verify": "",
+        "followerGain": "75.5w",
+        "followers": "446.5w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "茶百道官方宠粉号 20082021CBD",
+        "verify": "商家认证账号",
+        "followerGain": "62.6w",
+        "followers": "2,587.8w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "广东夫妇巴黎欧莱雅巅峰破价 AresCheng",
+        "verify": "音乐人",
+        "followerGain": "19.4w",
+        "followers": "6,600.1w",
+        "products": "112"
+      },
+      {
+        "rank": "4",
+        "name": "我不知豆啊！ 68176725799",
+        "verify": "",
+        "followerGain": "19.1w",
+        "followers": "59.3w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "乐宝影视 826127098",
+        "verify": "",
+        "followerGain": "19.1w",
+        "followers": "314.1w",
+        "products": "2"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-10-31",
+    "date": "2026-10-31",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 12,592,012",
+        "volume": "50w~100w 80,026",
+        "atv": "300~400",
+        "followers": "4,016.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP ➤ 3号早8点 周二见~ lluo9527",
+        "sales": "1000w+ 11,380,445",
+        "volume": "10w~25w 29,612",
+        "atv": "800~900",
+        "followers": "227.2w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "Apple产品青橙数码旗舰店 appleqcsm",
+        "sales": "1000w+ 5,766,616",
+        "volume": "5000~1w 1,480",
+        "atv": "1w~1.2w",
+        "followers": "560w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "兰知春序 83033400459",
+        "sales": "1000w+ 4,528,166",
+        "volume": "10w~50w 26,149",
+        "atv": "300~400",
+        "followers": "654.8w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "希娜💗每周三周六早上8:30约💗 577894592",
+        "sales": "1000w+ 4,434,889",
+        "volume": "1w~2.5w 4,308",
+        "atv": "2400~2600",
+        "followers": "356.7w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-10-31",
+    "top10": [
+      {
+        "creator": "九妹起飞",
+        "fans": "29w",
+        "publishTime": "10/31 16:16",
+        "product": "厨美太斩切刀厨房家用持久锋利超快切片砍骨两用菜刀厨师专用菜刀",
+        "likes": "2.3w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小马生煎包",
+        "fans": "12.6w",
+        "publishTime": "10/31 18:00",
+        "product": "【工厂正品】李星星棒棒素牛儿时怀旧休闲解馋小零食辣条辣棒组合装",
+        "likes": "2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "花姐",
+        "fans": "180.9w",
+        "publishTime": "10/31 09:12",
+        "product": "针织纯棉弹力螺纹袖口罗纹裤脚加厚接长神器假袖口绿色布套辅布料",
+        "likes": "8,911",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "🥗🫑",
+        "fans": "31.7w",
+        "publishTime": "10/31 00:22",
+        "product": "艾草颈椎枕圆柱形40CM长艾草颈椎枕圆柱形40CM长",
+        "likes": "8,130",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "小狮子财经科技",
+        "fans": "466.3w",
+        "publishTime": "10/31 05:29",
+        "product": "《在AI时代的大门前》《财新周刊》2026年增刊 包邮免费快递",
+        "likes": "2.7w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "小苹果阿姨",
+        "fans": "24.6w",
+        "publishTime": "10/31 09:54",
+        "product": "bop波普专研色修美白牙膏活性抗菌肽生物溶渍亮白牙膏清新口气 ko",
+        "likes": "3,600",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "小泽香菜",
+        "fans": "107.3w",
+        "publishTime": "10/31 10:34",
+        "product": "复古橘色麻花毛衣开衫26秋冬慵懒风圆领显瘦短款针织外套秋冬新款",
+        "likes": "2,128",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "今天省钱买了吗",
+        "fans": "2.1w",
+        "publishTime": "10/31 01:20",
+        "product": "2026秋冬100羊毛衫女拉链翻领针织衫宽搭套头内搭外穿女羊毛针织",
+        "likes": "1,319",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "村驴",
+        "fans": "1",
+        "publishTime": "10/31 09:43",
+        "product": "村驴家香辣砂锅土豆粉",
+        "likes": "1.3w",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-10-31",
+    "updatedAt": "10:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-3.09%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+22.63%",
+    "productHeat": null,
+    "productHeatMoM": "+15.28%",
+    "salesHeat": null,
+    "salesHeatMoM": "+24.12%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+24.94%",
+    "perLive": {
+      "gpm": "8.1w",
+      "gpmMoM": "+12.26%",
+      "atv": "138.83",
+      "atvMoM": "+9.01%",
+      "uvValue": "10+",
+      "uvValueMoM": "+12.27%",
+      "views": "1.1w",
+      "viewsMoM": "+3.83%",
+      "avgOnline": "133",
+      "avgOnlineMoM": "+22.02%",
+      "avgStay": "1′46′′",
+      "avgStayMoM": "+15.26%"
+    }
+  }
+}

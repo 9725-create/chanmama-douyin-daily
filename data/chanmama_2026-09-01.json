@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-02T01:45:13.820Z",
+  "queryDate": "2026-09-01",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-01",
+    "date": "2026-09-01",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "陈泽- 9896719.",
+        "verify": "",
+        "followerGain": "13w",
+        "followers": "3,939.1w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "蓝战非 610521233",
+        "verify": "游戏主播",
+        "followerGain": "9.2w",
+        "followers": "2,799.5w",
+        "products": "3"
+      },
+      {
+        "rank": "1",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "8.8w",
+        "followers": "2,684.4w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "孙千 sunshigeyi",
+        "verify": "演员",
+        "followerGain": "7.9w",
+        "followers": "1,277.7w",
+        "products": "0"
+      },
+      {
+        "rank": "5 4",
+        "name": "JASON吴 JASONWU521",
+        "verify": "",
+        "followerGain": "7.6w",
+        "followers": "325.6w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-01",
+    "date": "2026-09-01",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 3,786,084",
+        "volume": "50w~100w 101,771",
+        "atv": "50~100",
+        "followers": "3,924w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "猴子（生活号） 863667457",
+        "sales": "1000w+ 1,872,494",
+        "volume": "5000~1w 1,794",
+        "atv": "2400~2600",
+        "followers": "2.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "刘叮咚🔔轻奢女鞋 LDINGDONG",
+        "sales": "1000w+ 1,687,853",
+        "volume": "10w~25w 20,104",
+        "atv": "100~200",
+        "followers": "140.2w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "4",
+        "name": "学而思官方旗舰店 Xests",
+        "sales": "1000w+ 1,674,875",
+        "volume": "2500~5000 977.9",
+        "atv": "4200~4400",
+        "followers": "489.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "金川黄金投资金官方旗舰店甄选 74331058180",
+        "sales": "1000w+ 1,569,051",
+        "volume": "5000~1w 1,786",
+        "atv": "2000~2200",
+        "followers": "19.4w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-01",
+    "top10": [
+      {
+        "creator": "泡面小生",
+        "fans": "5.4w",
+        "publishTime": "08/30 00:04",
+        "product": "【黑鸭火鸡面】泡面先生定制141g速食哇噻面面饼美食火鸡面拌面吃播",
+        "likes": "8,709",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "龙腾虎跃（龙殿俊）",
+        "fans": "511w",
+        "publishTime": "08/31 17:01",
+        "product": "【龙殿俊专属】腾飞蛋黄莲蓉月饼东北老式月饼混合（试吃2个）",
+        "likes": "9,553",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "珊珊童趣",
+        "fans": "126w",
+        "publishTime": "08/31 12:47",
+        "product": "天星【26秋神奇小纸条课课贴】语文数学英语小学上册63制人教通版",
+        "likes": "2,041",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "刘小沫同学",
+        "fans": "23.6w",
+        "publishTime": "08/30 11:15",
+        "product": "2026年新版二三年级上册语文数学专项四合一同步训练练习册",
+        "likes": "4,606",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "袅润电子",
+        "fans": "14.6w",
+        "publishTime": "08/31 16:39",
+        "product": "高级感马甲+衬衫两件套上衣女宽松气质独特别致叠穿春秋季大码",
+        "likes": "542",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "心语爆爆",
+        "fans": "1.5w",
+        "publishTime": "08/30 13:23",
+        "product": "高级感马甲+衬衫两件套上衣女宽松气质独特别致叠穿春秋季大码",
+        "likes": "763",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小煤气罐罐",
+        "fans": "11.5w",
+        "publishTime": "08/31 10:51",
+        "product": "德佑柔软纸巾婴儿出生前必备用品乳霜纸婴儿柔纸巾云柔巾软抽纸A",
+        "likes": "2,505",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "是你的妮妮啊",
+        "fans": "2.7w",
+        "publishTime": "08/30 07:35",
+        "product": "【买2送1】兔血冻干犬猫通用宠物零食补充营养铁狗狗猫咪零食奖励",
+        "likes": "2.5w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "告白手工",
+        "fans": "808.8w",
+        "publishTime": "08/30 11:51",
+        "product": "【三色可擦笔】猫太子按动中性笔可擦笔小学刷题重点标记顺滑速干",
+        "likes": "646",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-01",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+4.88%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+9.03%",
+    "productHeat": null,
+    "productHeatMoM": "+7.22%",
+    "salesHeat": null,
+    "salesHeatMoM": "+6.79%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+6.26%",
+    "perLive": {
+      "gpm": "8.5w",
+      "gpmMoM": "+6.02%",
+      "atv": "104.62",
+      "atvMoM": "-6.31%",
+      "uvValue": "10+",
+      "uvValueMoM": "+6.03%",
+      "views": "1.1w",
+      "viewsMoM": "+2.56%",
+      "avgOnline": "46",
+      "avgOnlineMoM": "-63.2%",
+      "avgStay": "29′′",
+      "avgStayMoM": "-74.5%"
+    }
+  }
+}

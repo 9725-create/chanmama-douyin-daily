@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-13T01:52:14.550Z",
+  "queryDate": "2026-08-12",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-12",
+    "date": "2026-08-12",
+    "top5": [
+      {
+        "rank": "",
+        "name": "旭旭宝宝 renyixu1989",
+        "verify": "游戏主播",
+        "followerGain": "150.3w",
+        "followers": "2,877w",
+        "products": "0"
+      },
+      {
+        "rank": "48",
+        "name": "陈泽- 9896719.",
+        "verify": "",
+        "followerGain": "135.6w",
+        "followers": "3,759.3w",
+        "products": "0"
+      },
+      {
+        "rank": "1373",
+        "name": "黑白-（六酱的小猫） heibai9799",
+        "verify": "",
+        "followerGain": "93.2w",
+        "followers": "308.8w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "𝑿.四五六🍉 82553285031",
+        "verify": "",
+        "followerGain": "84.8w",
+        "followers": "111.3w",
+        "products": "0"
+      },
+      {
+        "rank": "5 902",
+        "name": "王逍遥 WXY5688",
+        "verify": "",
+        "followerGain": "61w",
+        "followers": "179.6w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-12",
+    "date": "2026-08-12",
+    "top5": [
+      {
+        "rank": "",
+        "name": "马筱梅Mandy Mandyma0718",
+        "sales": "1000w+ 4,335,222",
+        "volume": "1w~2.5w 4,098",
+        "atv": "2400~2600",
+        "followers": "106.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP lluo9527",
+        "sales": "1000w+ 4,207,926",
+        "volume": "5w~10w 16,501",
+        "atv": "500~600",
+        "followers": "213.7w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "张檬小五8月13日早8点黄金人皮韩国溯源 menglove5",
+        "sales": "1000w+ 3,774,317",
+        "volume": "2w~10w 11,601",
+        "atv": "600~700",
+        "followers": "986w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 3,399,395",
+        "volume": "10w~50w 63,532",
+        "atv": "50~100",
+        "followers": "3,908.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "猫七七今晚6点超市正式开业 Vipnini",
+        "sales": "1000w+ 2,471,264",
+        "volume": "10w~50w 51,836",
+        "atv": "10~50",
+        "followers": "551.8w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-12",
+    "top10": [
+      {
+        "creator": "六一小娇咪",
+        "fans": "4",
+        "publishTime": "08/10 00:56",
+        "product": "派迪诺【绦虫克星】派迪妙猫咪体内驱虫药美味好喂米尔贝肟吡喹酮片",
+        "likes": "6,212",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "星星小喻儿",
+        "fans": "18.4w",
+        "publishTime": "08/10 21:00",
+        "product": "小喻儿 脆笋菜300g*2瓶 外婆菜下饭菜贵州四川特产",
+        "likes": "4,076",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "阿义走乡村",
+        "fans": "214.4w",
+        "publishTime": "08/10 11:04",
+        "product": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "likes": "2.7w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "云上鲜生",
+        "fans": "2.8w",
+        "publishTime": "08/10 06:33",
+        "product": "品味新疆正宗新疆酱番茄仙女果新疆源产地现摘直发5斤包邮",
+        "likes": "4,665",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "阿义走乡村",
+        "fans": "214.4w",
+        "publishTime": "08/10 19:30",
+        "product": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "likes": "8,974",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小燕子吖",
+        "fans": "47.9w",
+        "publishTime": "08/10 08:25",
+        "product": "【汤东薯业】河南哈密薯小果/中果/大果新鲜香甜肉质种植",
+        "likes": "1,846",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "喵酱爱吃娱",
+        "fans": "60.8w",
+        "publishTime": "08/10 20:02",
+        "product": "【睡眠好物】爱斯凯KYN重力助眠眼罩遮光神器蒙眼男女通用深睡眼枕",
+        "likes": "9,145",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "杨九月美食",
+        "fans": "323w",
+        "publishTime": "08/10 16:45",
+        "product": "小野轻煮干锅酱瓶装酱香微辣干锅鸡干锅虾干锅土豆家用懒人调料",
+        "likes": "2.2w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "大只招财猫",
+        "fans": "1.5w",
+        "publishTime": "08/10 13:38",
+        "product": "SKT烟酰胺蚕丝皂清洁洗脸沐浴精油洗澡脸部手工香皂",
+        "likes": "1.2w",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-12",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+1.63%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-6.38%",
+    "productHeat": null,
+    "productHeatMoM": "+0.50%",
+    "salesHeat": null,
+    "salesHeatMoM": "-23.45%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-6.27%",
+    "perLive": {
+      "gpm": "5.2w",
+      "gpmMoM": "+4.84%",
+      "atv": "104.71",
+      "atvMoM": "-5.65%",
+      "uvValue": "10+",
+      "uvValueMoM": "+4.83%",
+      "views": "1.1w",
+      "viewsMoM": "-2.82%",
+      "avgOnline": "156",
+      "avgOnlineMoM": "+1.96%",
+      "avgStay": "1′57′′",
+      "avgStayMoM": "-0.3%"
+    }
+  }
+}

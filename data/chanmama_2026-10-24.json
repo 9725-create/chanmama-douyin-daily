@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-10-26T01:54:47.316Z",
+  "queryDate": "2026-10-24",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-10-24",
+    "date": "2026-10-24",
+    "top5": [
+      {
+        "rank": "",
+        "name": "茶百道官方宠粉号 20082021CBD",
+        "verify": "商家认证账号",
+        "followerGain": "36w",
+        "followers": "2,364.6w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "陈伯(全能王) keyis153",
+        "verify": "",
+        "followerGain": "19.2w",
+        "followers": "2,649.9w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "Coki酱 28169000654",
+        "verify": "",
+        "followerGain": "17.2w",
+        "followers": "32.5w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": "大亨名表 hcsm155",
+        "verify": "",
+        "followerGain": "17.1w",
+        "followers": "69.3w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "看剧吧 277339027",
+        "verify": "贵阳市云岩区朔扬高百货店（个体工商户）",
+        "followerGain": "12.1w",
+        "followers": "305w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-10-24",
+    "date": "2026-10-24",
+    "top5": [
+      {
+        "rank": "",
+        "name": "洛哥AP lluo9527",
+        "sales": "1000w+ 11,315,505",
+        "volume": "10w~25w 23,552",
+        "atv": "1000~1200",
+        "followers": "226.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 6,645,888",
+        "volume": "10w~50w 32,665",
+        "atv": "400~500",
+        "followers": "3,998.8w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "金川黄金官方旗舰店 92086381862",
+        "sales": "1000w+ 5,929,575",
+        "volume": "1w~2.5w 3,165",
+        "atv": "4600~4800",
+        "followers": "93.3w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "4",
+        "name": "Apple产品青橙数码旗舰店 appleqcsm",
+        "sales": "1000w+ 5,344,094",
+        "volume": "5000~1w 1,391",
+        "atv": "1w~1.2w",
+        "followers": "557.2w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "李亚鹏 liyapeng0927",
+        "sales": "1000w+ 4,698,196",
+        "volume": "10w~50w 48,707",
+        "atv": "100~200",
+        "followers": "1,332.7w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-10-24",
+    "top10": [
+      {
+        "creator": "贝贝妈的小日常",
+        "fans": "22.8w",
+        "publishTime": "10/23 12:12",
+        "product": "【贝妈专属】中筒袜子男女均码情侣条纹刺绣秋冬季高帮运动百搭袜子",
+        "likes": "1,986",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "阿花的肚肚",
+        "fans": "4.1w",
+        "publishTime": "10/23 11:24",
+        "product": "百川香铛铛手撕爆料条零食辣条美味深夜充饥必备馋嘴小零食",
+        "likes": "6,798",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "盛未夏",
+        "fans": "5",
+        "publishTime": "10/23 00:51",
+        "product": "可爱豹纹毛绒趴趴小熊发箍高颅顶秋冬百搭外出发饰卡通小熊毛茸茸",
+        "likes": "1.6w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "><金豆子>",
+        "fans": "6.9w",
+        "publishTime": "10/24 05:19",
+        "product": "【9.9元/50盘】栀子花香盘香室内家用持久留香除臭清新家用香薰熏香",
+        "likes": "2.5w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "><金豆子>",
+        "fans": "6.9w",
+        "publishTime": "10/23 09:16",
+        "product": "德绒艾草护腰带男女士腰部保暖防寒发热护肚子防着凉腹带暖身防寒",
+        "likes": "8,692",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "我是陈挺好！！",
+        "fans": "1.4w",
+        "publishTime": "10/23 15:01",
+        "product": "【悬挂抽纸】活力28挂式抽纸面巾纸卫生纸超厚巾加大加厚干湿两用",
+        "likes": "3,603",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "🐰兔兔",
+        "fans": "147.4w",
+        "publishTime": "10/23 10:30",
+        "product": "栀子花香盘香室内家用持久留香除臭清新家用香薰熏香",
+        "likes": "5,394",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "蟹黄宝太太",
+        "fans": "1.5w",
+        "publishTime": "10/23 18:42",
+        "product": "【数量+3下单】苹果山楂红枣陈皮原料茶酸甜",
+        "likes": "1,090",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "斤斤两两",
+        "fans": "1.8w",
+        "publishTime": "10/23 16:11",
+        "product": "万圣节创意糖果卡片南瓜幽灵造型棒棒糖装饰卡",
+        "likes": "2.7w",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-10-24",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+7.37%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-17.92%",
+    "productHeat": null,
+    "productHeatMoM": "+12.42%",
+    "salesHeat": null,
+    "salesHeatMoM": "-13.04%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-6.64%",
+    "perLive": {
+      "gpm": "7.2w",
+      "gpmMoM": "+21.45%",
+      "atv": "135.49",
+      "atvMoM": "-6.49%",
+      "uvValue": "10+",
+      "uvValueMoM": "+21.46%",
+      "views": "1.1w",
+      "viewsMoM": "-22.74%",
+      "avgOnline": "139",
+      "avgOnlineMoM": "-23.2%",
+      "avgStay": "1′52′′",
+      "avgStayMoM": "+3.48%"
+    }
+  }
+}

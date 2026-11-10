@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-24T02:05:40.710Z",
+  "queryDate": "2026-08-23",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-23",
+    "date": "2026-08-23",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "毛石富 22434671204",
+        "verify": "",
+        "followerGain": "36.3w",
+        "followers": "584.4w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "李金铭 lijinming7",
+        "verify": "演员",
+        "followerGain": "18.4w",
+        "followers": "956.2w",
+        "products": "4"
+      },
+      {
+        "rank": "4",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "13.2w",
+        "followers": "2,584.7w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "宇宙科普君 39614215750",
+        "verify": "",
+        "followerGain": "12.2w",
+        "followers": "146.8w",
+        "products": "0"
+      },
+      {
+        "rank": "5 16",
+        "name": "陈伯(全能王) keyis153",
+        "verify": "",
+        "followerGain": "10.3w",
+        "followers": "2,303.3w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-23",
+    "date": "2026-08-23",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,500,777",
+        "volume": "50w~100w 86,599",
+        "atv": "50~100",
+        "followers": "3,914.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "涂磊 189251310",
+        "sales": "1000w+ 4,223,552",
+        "volume": "2w~10w 10,955",
+        "atv": "700~800",
+        "followers": "5,782.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "小北珠宝 xbzb777",
+        "sales": "1000w+ 4,040,945",
+        "volume": "2w~10w 13,310",
+        "atv": "600~700",
+        "followers": "548.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "吞吞穿搭日记（8月23号早上10点上新） Hellotun",
+        "sales": "1000w+ 3,932,437",
+        "volume": "2.5w~5w 9,511",
+        "atv": "800~900",
+        "followers": "187.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "李亚鹏 liyapeng0927",
+        "sales": "1000w+ 3,099,476",
+        "volume": "2w~10w 14,857",
+        "atv": "400~500",
+        "followers": "1,323.3w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-23",
+    "top10": [
+      {
+        "creator": "小婷婷爱搞笑",
+        "fans": "16.2w",
+        "publishTime": "08/21 11:35",
+        "product": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "likes": "2.4w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "市民张三",
+        "fans": "169.3w",
+        "publishTime": "08/21 06:51",
+        "product": "【升级版强力鸡骨剪刀】超强力大头剪加厚多功能剪鸡鸭鱼鹅等家用",
+        "likes": "5,709",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "村驴",
+        "fans": "1",
+        "publishTime": "08/21 08:36",
+        "product": "村驴家油泼辣子油辣椒200g*3瓶",
+        "likes": "2.1w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "萱妈的日常",
+        "fans": "13.4w",
+        "publishTime": "08/21 08:06",
+        "product": "棵雨免刷洗洁厕剂",
+        "likes": "6,464",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小露",
+        "fans": "4",
+        "publishTime": "08/21 11:18",
+        "product": "三资堂嘭嘭高光棒高光提亮水光棒立体骨相膨胀面中自然提气色持妆",
+        "likes": "7,842",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "艾莲（月玲）",
+        "fans": "115.9w",
+        "publishTime": "08/21 18:01",
+        "product": "【迪丽热巴同款】BOP溶菌酶清新牙膏香水美白去黄官方口臭热销ko",
+        "likes": "3.3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "哆咪哆零食",
+        "fans": "18.9w",
+        "publishTime": "08/22 08:24",
+        "product": "【买30送20】五香盐焗卤味鹌鹑蛋独立包装解馋办公室休闲零食",
+        "likes": "402",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "海绵饱饱吖²¹³",
+        "fans": "4",
+        "publishTime": "08/21 14:37",
+        "product": "创意吸盘支架手机壳纯色17大视窗适用苹果oppo华为vivo小米软",
+        "likes": "1w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "马 小 慧👩‍💻",
+        "fans": "14.8w",
+        "publishTime": "08/21 10:00",
+        "product": "洁尔阴莲子心草本排污排黄抑菌护垫私处保养私密护理官方旗舰正品",
+        "likes": "4,822",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-23",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+2.28%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-13.28%",
+    "productHeat": null,
+    "productHeatMoM": "+0.98%",
+    "salesHeat": null,
+    "salesHeatMoM": "-22.62%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-2.79%",
+    "perLive": {
+      "gpm": "8.1w",
+      "gpmMoM": "+33.40%",
+      "atv": "99.47",
+      "atvMoM": "-4.95%",
+      "uvValue": "10+",
+      "uvValueMoM": "+33.40%",
+      "views": "1.1w",
+      "viewsMoM": "-8.73%",
+      "avgOnline": "137",
+      "avgOnlineMoM": "-15.43%",
+      "avgStay": "1′52′′",
+      "avgStayMoM": "-2.12%"
+    }
+  }
+}

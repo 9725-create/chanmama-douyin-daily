@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-20T01:52:15.635Z",
+  "queryDate": "2026-08-19",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-19",
+    "date": "2026-08-19",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "南翔 NX202020",
+        "verify": "传统文化创作者、美食自媒体",
+        "followerGain": "28.3w",
+        "followers": "3,057.4w",
+        "products": "47"
+      },
+      {
+        "rank": "1412",
+        "name": "蔡徐坤 1307311292",
+        "verify": "歌手、抖音音乐人",
+        "followerGain": "17.1w",
+        "followers": "2,774.6w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "书亦烧仙草 s25845727433",
+        "verify": "商家认证账号",
+        "followerGain": "16.6w",
+        "followers": "836.6w",
+        "products": "0"
+      },
+      {
+        "rank": "4 611",
+        "name": "阿星and阿奇 XingandQi",
+        "verify": "人气视频创作者",
+        "followerGain": "13.6w",
+        "followers": "2,874w",
+        "products": "8"
+      },
+      {
+        "rank": "5 3",
+        "name": "陈泽- 9896719.",
+        "verify": "",
+        "followerGain": "13w",
+        "followers": "3,894.5w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-19",
+    "date": "2026-08-19",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 5,362,363",
+        "volume": "10w~50w 66,906",
+        "atv": "100~200",
+        "followers": "3,912.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP lluo9527",
+        "sales": "1000w+ 5,055,709",
+        "volume": "5w~10w 14,583",
+        "atv": "700~800",
+        "followers": "214.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "兰知春序 83033400459",
+        "sales": "1000w+ 2,849,282",
+        "volume": "10w~50w 28,864",
+        "atv": "100~200",
+        "followers": "623.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "董洁的董生活 88544993735",
+        "sales": "1000w+ 2,103,043",
+        "volume": "2.5w~5w 7,556",
+        "atv": "500~600",
+        "followers": "126.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "涂磊 189251310",
+        "sales": "1000w+ 1,882,682",
+        "volume": "5000~2w 1,998",
+        "atv": "2000~2200",
+        "followers": "5,779.4w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-19",
+    "top10": [
+      {
+        "creator": "泡面小生",
+        "fans": "5.1w",
+        "publishTime": "08/19 11:48",
+        "product": "【黑鸭火鸡面】泡面先生定制141g方便面速食哇塞火鸡面拌面哇噻面",
+        "likes": "1w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "逗逗乐小屋",
+        "fans": "14.8w",
+        "publishTime": "08/17 12:14",
+        "product": "厨房过家家折叠迷你小餐桌凳儿童玩具食玩仿真摆件小人国娃屋场景",
+        "likes": "5,634",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "蔡蔡子爱分享",
+        "fans": "27.7w",
+        "publishTime": "08/17 20:27",
+        "product": "【买一送一】草酸清洁剂瓷砖地板卫生间浴室玻璃污垢强力去污不留痕",
+        "likes": "1,439",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "库库数码",
+        "fans": "1.2w",
+        "publishTime": "08/17 17:06",
+        "product": "奥菲顿收手吧阿星菲林硬壳适用苹果17/华为/小米/vivo/oppo手机壳",
+        "likes": "7,036",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小叶家",
+        "fans": "1.1w",
+        "publishTime": "08/17 09:23",
+        "product": "小狗格纹靠背马桶垫家用卫生间防水坐便垫四季通用可爱马桶座圈",
+        "likes": "1,808",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "大梨轻卡美食",
+        "fans": "84.7w",
+        "publishTime": "08/17 15:51",
+        "product": "【顺丰京东包邮】正宗甘肃高山女神蓝蜜西梅水果酸甜可口香甜李子",
+        "likes": "168",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "朱古力鼓励",
+        "fans": "1.2w",
+        "publishTime": "08/17 13:11",
+        "product": "【达人专属】到手8杯起 I 瑞幸意式黑咖咖啡液+醇香生椰风味咖啡液",
+        "likes": "4,172",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "乳酸菌R",
+        "fans": "53.6w",
+        "publishTime": "08/18 09:44",
+        "product": "平江特产柴火猪肝传统本味罐装猪肝下酒解馋追剧零食原味烟熏猪肝",
+        "likes": "130",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "星仔美食测评",
+        "fans": "255.2w",
+        "publishTime": "08/17 19:10",
+        "product": "广西高山甜香蕉香甜软糯独立包装1/3/5斤芝麻蕉自然成熟水果批发",
+        "likes": "4,669",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-19",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+1.99%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-5.33%",
+    "productHeat": null,
+    "productHeatMoM": "+0.88%",
+    "salesHeat": null,
+    "salesHeatMoM": "-7.37%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+15.25%",
+    "perLive": {
+      "gpm": "6.6w",
+      "gpmMoM": "+1.84%",
+      "atv": "96.71",
+      "atvMoM": "-10.28%",
+      "uvValue": "10+",
+      "uvValueMoM": "+1.84%",
+      "views": "1.1w",
+      "viewsMoM": "-10.95%",
+      "avgOnline": "142",
+      "avgOnlineMoM": "-9.55%",
+      "avgStay": "2′1′′",
+      "avgStayMoM": "-4.07%"
+    }
+  }
+}

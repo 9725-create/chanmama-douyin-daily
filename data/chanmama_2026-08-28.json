@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-29T01:51:27.572Z",
+  "queryDate": "2026-08-28",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-28",
+    "date": "2026-08-28",
+    "top5": [
+      {
+        "rank": "1",
+        "name": "陈伯(全能王) keyis153",
+        "verify": "",
+        "followerGain": "39.7w",
+        "followers": "2,396.7w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "小敏g💕 60054694258",
+        "verify": "",
+        "followerGain": "12.9w",
+        "followers": "66.3w",
+        "products": "0"
+      },
+      {
+        "rank": "9",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "11.7w",
+        "followers": "2,632w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "许华升28号中午12点14周年回馈大盛典 xhs999",
+        "verify": "抖音音乐人",
+        "followerGain": "10w",
+        "followers": "2,158.9w",
+        "products": "5"
+      },
+      {
+        "rank": "5 1",
+        "name": "蔡徐坤 1307311292",
+        "verify": "歌手、抖音音乐人",
+        "followerGain": "9.3w",
+        "followers": "2,852.7w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-28",
+    "date": "2026-08-28",
+    "top5": [
+      {
+        "rank": "",
+        "name": "小熊出没29号5点10分BOH面霜喷雾 xiaoxiong6188",
+        "sales": "1000w+ 7,914,380",
+        "volume": "5000~2w 3,089",
+        "atv": "6600~6800",
+        "followers": "316.8w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "云上珠宝-28号19点珊瑚狂欢现货开仓节 YDSZB666",
+        "sales": "1000w+ 5,177,459",
+        "volume": "2w~10w 14,450",
+        "atv": "700~800",
+        "followers": "840.6w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP lluo9527",
+        "sales": "1000w+ 4,765,411",
+        "volume": "5w~10w 18,202",
+        "atv": "500~600",
+        "followers": "215.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 3,284,668",
+        "volume": "50w~100w 82,441",
+        "atv": "50~100",
+        "followers": "3,920.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "四火姐姐 1991869870",
+        "sales": "1000w+ 3,194,621",
+        "volume": "5000~2w 2,514",
+        "atv": "3000~3200",
+        "followers": "590.5w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-28",
+    "top10": [
+      {
+        "creator": "王一楠",
+        "fans": "254.4w",
+        "publishTime": "08/27 18:01",
+        "product": "Vanish/渍无踪升级金装彩漂粉强力去污增白洗衣服清洁去黄去渍",
+        "likes": "5.7w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "囧嫂教做菜",
+        "fans": "475.2w",
+        "publishTime": "08/26 10:05",
+        "product": "【福利】安琪高活性耐高糖酵母粉5g多规格家用做馒头发糕面包孝母粉",
+        "likes": "5.8w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "叫我宋姐",
+        "fans": "7.2w",
+        "publishTime": "08/26 15:28",
+        "product": "Minayo美那有镁钾微泡片矿物质维生素营养健康苹果黄芪味dsp",
+        "likes": "1w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "颗儿壳壳",
+        "fans": "5.2w",
+        "publishTime": "08/26 10:37",
+        "product": "2026秋季新版一年级上册人教版语文数学同步训练课后练习册",
+        "likes": "2,517",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "财经林妹妹",
+        "fans": "982.2w",
+        "publishTime": "08/26 07:00",
+        "product": "【北大博士科研成果】BOP修护牙膏羟基磷灰石抗敏含氟热销官方正品z",
+        "likes": "3w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "方老板的酒窝吐司",
+        "fans": "17.3w",
+        "publishTime": "08/26 12:19",
+        "product": "开袋即食香甜粉糯无壳板栗仁办公室零食晚上充饥食品无添加解馋",
+        "likes": "7,037",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小玉要开心",
+        "fans": "103.6w",
+        "publishTime": "08/26 09:42",
+        "product": "【花间颂限定双拼粉饼】CoCo花间颂联名粉饼双盒装控油定妆dsp",
+        "likes": "6,082",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "蛋挞边边（145斤小个子版",
+        "fans": "3w",
+        "publishTime": "08/26 17:18",
+        "product": "美式高腰浅卡其牛仔女2026春夏季新款宽松显瘦水洗垂感拖地阔腿裤",
+        "likes": "6,219",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "董艳颖精选",
+        "fans": "2.3w",
+        "publishTime": "08/26 17:30",
+        "product": "圆哥推荐【贡菜+腐竹+豆芽】班干部大吃咖酸辣粉速食红薯粉方便美食",
+        "likes": "2,655",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-28",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-1.71%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+5.89%",
+    "productHeat": null,
+    "productHeatMoM": "-0.52%",
+    "salesHeat": null,
+    "salesHeatMoM": "+1.11%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-0.16%",
+    "perLive": {
+      "gpm": "5.5w",
+      "gpmMoM": "-7.23%",
+      "atv": "107.82",
+      "atvMoM": "+1.90%",
+      "uvValue": "10+",
+      "uvValueMoM": "-7.23%",
+      "views": "1.2w",
+      "viewsMoM": "+3.66%",
+      "avgOnline": "158",
+      "avgOnlineMoM": "+8.22%",
+      "avgStay": "1′54′′",
+      "avgStayMoM": "-2.29%"
+    }
+  }
+}

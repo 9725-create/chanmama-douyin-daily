@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-10T01:57:59.617Z",
+  "queryDate": "2026-09-09",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-09",
+    "date": "2026-09-09",
+    "top5": [
+      {
+        "rank": "113",
+        "name": "刘回 848686939",
+        "verify": "",
+        "followerGain": "38.7w",
+        "followers": "756.9w",
+        "products": "0"
+      },
+      {
+        "rank": "196",
+        "name": "雷禄（盼之app创始人） pzdscom",
+        "verify": "",
+        "followerGain": "25.7w",
+        "followers": "133.2w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "小子虎虎 198407334",
+        "verify": "",
+        "followerGain": "19w",
+        "followers": "46.8w",
+        "products": "0"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "陈伯 FF9985521",
+        "verify": "",
+        "followerGain": "17.5w",
+        "followers": "218.2w",
+        "products": "0"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "帧经典 79201185377",
+        "verify": "",
+        "followerGain": "17.4w",
+        "followers": "100.1w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-09",
+    "date": "2026-09-09",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 5,152,321",
+        "volume": "50w~100w 103,808",
+        "atv": "50~100",
+        "followers": "3,935.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "雅君（重生版） 43552472494",
+        "sales": "1000w+ 4,613,643",
+        "volume": "1w~2.5w 3,296",
+        "atv": "50~100",
+        "followers": "22.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "小北珠宝 xbzb777",
+        "sales": "1000w+ 3,729,608",
+        "volume": "2w~10w 8,247",
+        "atv": "900~1000",
+        "followers": "556w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "繁星闪烁主播糖 67015104462",
+        "sales": "1000w+ 3,648,068",
+        "volume": "1w~2.5w 3,612",
+        "atv": "2200~2400",
+        "followers": "5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "主持人王芳 660260823",
+        "sales": "1000w+ 2,268,575",
+        "volume": "1000~5000 1,020",
+        "atv": "5400~5600",
+        "followers": "1,460.5w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-09",
+    "top10": [
+      {
+        "creator": "萱妈的日常",
+        "fans": "13.5w",
+        "publishTime": "09/07 08:08",
+        "product": "加厚加大珍珠纹洗脸巾800G",
+        "likes": "6,129",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "饱饱超会买",
+        "fans": "2w",
+        "publishTime": "09/07 10:31",
+        "product": "兹伊翰2026春秋新款小众气质百搭连帽外套女士宽松束脚裤时尚套装",
+        "likes": "264",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "郝叔童品小王同学精选号",
+        "fans": "3.3w",
+        "publishTime": "09/08 09:27",
+        "product": "【郝叔专属】DB 5根莫兰迪色波点星高弹发绳女童发圈皮筋 0133",
+        "likes": "809",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "喜遇辰安",
+        "fans": "3.3w",
+        "publishTime": "09/07 06:36",
+        "product": "优利特尿蛋白试纸尿目测试纸条家用医用尿常规肾病自检测试纸1VP",
+        "likes": "8,993",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "夏叔有好货",
+        "fans": "691.1w",
+        "publishTime": "09/08 10:00",
+        "product": "[大厨亲配]夏叔厨房兰州特色牛肉面汤料包牛肉面正宗调味牛肉粉",
+        "likes": "1w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "扑倒",
+        "fans": "265.2w",
+        "publishTime": "09/09 13:49",
+        "product": "【三角洲行动】S11通行证",
+        "likes": "4.2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小 源",
+        "fans": "2.8w",
+        "publishTime": "09/07 17:14",
+        "product": "萌才子【巨能夹·1个顶3个】A3双拉杆试卷夹旋转收纳文件夹开学文具",
+        "likes": "1,608",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "商家噩梦（测评）",
+        "fans": "4.5w",
+        "publishTime": "09/07 18:40",
+        "product": "新款臂力器锻炼手臂肌肉训练家用健身器材臂力棒多功能健身弹力棒",
+        "likes": "4,757",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "双胞胎妈妈",
+        "fans": "13.4w",
+        "publishTime": "09/07 15:35",
+        "product": "月半弯大号加厚抽纸6/24大包家用实惠装面巾纸卫生纸巾餐巾纸抽MY",
+        "likes": "4,311",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-09",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+0.72%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-6.55%",
+    "productHeat": null,
+    "productHeatMoM": "-0.22%",
+    "salesHeat": null,
+    "salesHeatMoM": "-7.25%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-15.01%",
+    "perLive": {
+      "gpm": "6.2w",
+      "gpmMoM": "-11.21%",
+      "atv": "111.78",
+      "atvMoM": "+0.50%",
+      "uvValue": "10+",
+      "uvValueMoM": "-11.21%",
+      "views": "1.1w",
+      "viewsMoM": "-2.82%",
+      "avgOnline": "145",
+      "avgOnlineMoM": "-1.36%",
+      "avgStay": "1′59′′",
+      "avgStayMoM": "-1.58%"
+    }
+  }
+}

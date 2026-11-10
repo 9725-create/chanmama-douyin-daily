@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-28T02:02:44.701Z",
+  "queryDate": "2026-09-27",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-09-27",
+    "date": "2026-09-27",
+    "top5": [
+      {
+        "rank": "",
+        "name": "王者荣耀恨意【国一野猪】 21215925160",
+        "verify": "",
+        "followerGain": "44.4w",
+        "followers": "350.8w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "HangHang HHang02",
+        "verify": "",
+        "followerGain": "22.8w",
+        "followers": "1,272.9w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "黄子韬 30s_club19930502",
+        "verify": "演员、歌手",
+        "followerGain": "17.9w",
+        "followers": "3,528.6w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": "王者荣耀赖神（舒服天团） hylaishen",
+        "verify": "游戏主播",
+        "followerGain": "17.8w",
+        "followers": "883.6w",
+        "products": "7"
+      },
+      {
+        "rank": "5",
+        "name": "快看短剧 97195948465",
+        "verify": "海南为有网络科技有限公司",
+        "followerGain": "17.4w",
+        "followers": "311.7w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-09-27",
+    "date": "2026-09-27",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "是圈总 shenjiangjun000",
+        "sales": "1000w+ 3,484,249",
+        "volume": "2w~10w 11,470",
+        "atv": "600~700",
+        "followers": "338.3w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "进榜",
+        "name": "外贸家z.blues Z.blues",
+        "sales": "1000w+ 3,128,786",
+        "volume": "2.5w~5w 8,932",
+        "atv": "700~800",
+        "followers": "97w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "1",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 3,104,798",
+        "volume": "10w~50w 63,603",
+        "atv": "50~100",
+        "followers": "3,962.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "央视网 cctv.com",
+        "sales": "1000w+ 2,296,020",
+        "volume": "2w~10w 5,409",
+        "atv": "900~1000",
+        "followers": "7,321.3w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "唐发发 TANGFAFA888",
+        "sales": "1000w+ 2,292,172",
+        "volume": "2.5w~5w 9,191",
+        "atv": "400~500",
+        "followers": "89.9w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-09-27",
+    "top10": [
+      {
+        "creator": "小玉要开心",
+        "fans": "103.5w",
+        "publishTime": "09/25 13:00",
+        "product": "【买一送一】粉底液超薄固定杯内衣软糯少女碎花智能生物标防下垂",
+        "likes": "7,057",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "米粒妈妈-粉矿💗",
+        "fans": "1.5w",
+        "publishTime": "09/25 08:08",
+        "product": "AIKR【特护艾草早安裤】草本姨妈裤安心裤免脱日用超薄裤型卫生巾",
+        "likes": "7,592",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "C0C0 Ma 幸予",
+        "fans": "98.8w",
+        "publishTime": "09/26 10:00",
+        "product": "【迪丽热巴同款】BOP溶菌酶清新牙膏香水美白去黄官方口臭热销ko",
+        "likes": "2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "姚小妹儿",
+        "fans": "18.6w",
+        "publishTime": "09/26 17:06",
+        "product": "【老成都担担面调料】厨师兄红油小面调料拌面酱辣椒酱下饭酱拌饭酱",
+        "likes": "7,114",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "甜桃吖🍑",
+        "fans": "7",
+        "publishTime": "09/25 14:06",
+        "product": "木质手链 莲花叠戴双圈手链步步生链手串手链",
+        "likes": "1.7w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "是多多呀",
+        "fans": "5.1w",
+        "publishTime": "09/26 16:50",
+        "product": "秋冬新款加绒保暖包跟棉鞋女防滑防水居家可外穿舒适耐磨棉鞋男士",
+        "likes": "7,151",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "金铲铲小瑞（云顶）",
+        "fans": "10.3w",
+        "publishTime": "09/25 12:20",
+        "product": "【限时特售】宝库召唤连抽礼包合集【金铲铲之战官方授权】<自动充值>",
+        "likes": "4,411",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "杨翠花",
+        "fans": "106.7w",
+        "publishTime": "09/25 17:00",
+        "product": "参半专研清新美白牙膏色修去渍亮白清新便携洁牙家用100g-gs01",
+        "likes": "1.2w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "always聪聪（三角洲行动）",
+        "fans": "193.1w",
+        "publishTime": "09/26 17:05",
+        "product": "【限定返场】飞虎捆绑包 自动发货",
+        "likes": "9.1w",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-09-27",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+4.85%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-10.81%",
+    "productHeat": null,
+    "productHeatMoM": "+6.38%",
+    "salesHeat": null,
+    "salesHeatMoM": "-2.00%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+10.21%",
+    "perLive": {
+      "gpm": "9w",
+      "gpmMoM": "+9.94%",
+      "atv": "105.23",
+      "atvMoM": "-9.64%",
+      "uvValue": "10+",
+      "uvValueMoM": "+9.94%",
+      "views": "1.1w",
+      "viewsMoM": "-13.09%",
+      "avgOnline": "155",
+      "avgOnlineMoM": "-7.74%",
+      "avgStay": "1′49′′",
+      "avgStayMoM": "+5.73%"
+    }
+  }
+}

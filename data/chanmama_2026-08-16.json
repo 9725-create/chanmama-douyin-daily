@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-17T01:11:09.105Z",
+  "queryDate": "2026-08-16",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-16",
+    "date": "2026-08-16",
+    "top5": [
+      {
+        "rank": "进榜",
+        "name": "站立起来的影子 1352605236",
+        "verify": "",
+        "followerGain": "27.9w",
+        "followers": "43.3w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "贾乃亮 jianailiang2019",
+        "verify": "演员",
+        "followerGain": "21.2w",
+        "followers": "4,913w",
+        "products": "0"
+      },
+      {
+        "rank": "1",
+        "name": "熊出没 XCMGF",
+        "verify": "华强方特（深圳）动漫有限公司",
+        "followerGain": "21.1w",
+        "followers": "2,264.9w",
+        "products": "5"
+      },
+      {
+        "rank": "4 进榜",
+        "name": "亿点点不一样 2201744445",
+        "verify": "",
+        "followerGain": "19.9w",
+        "followers": "833.4w",
+        "products": "4"
+      },
+      {
+        "rank": "5 1",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "16.1w",
+        "followers": "2,502.7w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-16",
+    "date": "2026-08-16",
+    "top5": [
+      {
+        "rank": "",
+        "name": "贾乃亮 jianailiang2019",
+        "sales": "1000w+ 10,485,019",
+        "volume": "50w~100w 86,817",
+        "atv": "200~300",
+        "followers": "4,912.6w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,554,866",
+        "volume": "50w~100w 85,937",
+        "atv": "50~100",
+        "followers": "3,912.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "老贝Bayberyl beili881",
+        "sales": "1000w+ 3,573,153",
+        "volume": "1w~2.5w 4,570",
+        "atv": "1800~2000",
+        "followers": "125.8w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "宋潇·美颂生物董事长 MeichicSongxiao",
+        "sales": "1000w+ 3,503,595",
+        "volume": "10w~50w 27,547",
+        "atv": "200~300",
+        "followers": "357.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "外贸家z.blues Z.blues",
+        "sales": "1000w+ 3,259,972",
+        "volume": "5w~10w 11,187",
+        "atv": "500~600",
+        "followers": "91.6w",
+        "category": "综合",
+        "sessions": "2"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-16",
+    "top10": [
+      {
+        "creator": "新新同学",
+        "fans": "12.1w",
+        "publishTime": "08/14 18:57",
+        "product": "【800g/20包】豫吉礼盒装毛尖茶香饼干解腻清香爽口办公室必备",
+        "likes": "1.1w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "小煤气罐罐",
+        "fans": "10.8w",
+        "publishTime": "08/15 13:55",
+        "product": "月半弯加厚大包抽纸6/24包实惠装纸巾家用卫生纸可湿水面巾纸抽MY",
+        "likes": "110",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "阿义走乡村",
+        "fans": "214.9w",
+        "publishTime": "08/14 14:58",
+        "product": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "likes": "1.5w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "我是肥肥吖",
+        "fans": "9",
+        "publishTime": "08/14 16:42",
+        "product": "米诺头皮上药器掉发星人日常养护!水晶导液梳便携式不脏手按摩",
+        "likes": "1.1w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "果麦官方旗舰店",
+        "fans": "22.1w",
+        "publishTime": "08/14 11:42",
+        "product": "一日一页 把心画慢·描线涂色本 精装手账笔记本 镂空工艺 高颜值",
+        "likes": "1.2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小玉要开心",
+        "fans": "103.6w",
+        "publishTime": "08/14 20:41",
+        "product": "【蕉新】粉彩风 山茶花超薄固定杯内衣轻糯少女碎花防下垂文胸",
+        "likes": "3.4w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "振山精品严选店",
+        "fans": "35.5w",
+        "publishTime": "08/14 11:25",
+        "product": "新荷陈振山氨基酸拉小米鱼饵新款即开即用避杂鱼鲫鲤鱼饵一瓶搞定",
+        "likes": "4,517",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "努力小菜",
+        "fans": "6",
+        "publishTime": "08/14 17:34",
+        "product": "德佑湿厕纸80抽抑菌家用家庭装加厚大包一次性擦屁股卫生湿厕纸A",
+        "likes": "1,339",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "湛源-芳芳",
+        "fans": "2.9w",
+        "publishTime": "08/14 19:27",
+        "product": "魅影紫砂/2025新款时尚圆领双层透气网纱印花长袖打底T恤女1752",
+        "likes": "1,461",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-16",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-16.00%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-11.56%",
+    "productHeat": null,
+    "productHeatMoM": "+7.87%",
+    "salesHeat": null,
+    "salesHeatMoM": "-26.46%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+7.10%",
+    "perLive": {
+      "gpm": "7.3w",
+      "gpmMoM": "-15.28%",
+      "atv": "92.05",
+      "atvMoM": "-21.39%",
+      "uvValue": "10+",
+      "uvValueMoM": "-15.28%",
+      "views": "1.1w",
+      "viewsMoM": "-13.68%",
+      "avgOnline": "45",
+      "avgOnlineMoM": "-73.84%",
+      "avgStay": "28′′",
+      "avgStayMoM": "-75.43%"
+    }
+  }
+}

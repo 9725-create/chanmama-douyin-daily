@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-10-14T01:54:31.750Z",
+  "queryDate": "2026-10-13",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-10-13",
+    "date": "2026-10-13",
+    "top5": [
+      {
+        "rank": "",
+        "name": "贾冰开饭啦 60583492618",
+        "verify": "",
+        "followerGain": "26.4w",
+        "followers": "200.1w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "ETTIKA欣瑶好物 31552084506",
+        "verify": "江西欣瑶传媒有限公司",
+        "followerGain": "15.7w",
+        "followers": "166.3w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "CHAGEE霸王茶姬 CHAGEE2017",
+        "verify": "CHAGEE霸王茶姬官方账号",
+        "followerGain": "14.5w",
+        "followers": "1,445.4w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": "钟鸿飞 93245419816",
+        "verify": "",
+        "followerGain": "10.1w",
+        "followers": "50.8w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "小敏（记录生活） Xmmm16888",
+        "verify": "",
+        "followerGain": "9.5w",
+        "followers": "235.3w",
+        "products": "24"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-10-13",
+    "date": "2026-10-13",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 7,459,418",
+        "volume": "50w~100w 144,048",
+        "atv": "50~100",
+        "followers": "3,972.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "小小101❤️ wa101",
+        "sales": "1000w+ 4,137,542",
+        "volume": "10w~50w 57,914",
+        "atv": "50~100",
+        "followers": "1,983.3w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "陈什么陈 10.13皮草节 love_Peaches11",
+        "sales": "1000w+ 2,935,370",
+        "volume": "2.5w~5w 5,396",
+        "atv": "1000~1200",
+        "followers": "111.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "笑笑姐👑今天8到12点没了就下播回国啦 XX3338888",
+        "sales": "1000w+ 2,252,395",
+        "volume": "2w~10w 6,048",
+        "atv": "100~200",
+        "followers": "655.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "老郑美伦美玉珠宝 M5181718",
+        "sales": "1000w+ 2,010,201",
+        "volume": "5000~2w 2,452",
+        "atv": "1800~2000",
+        "followers": "53.8w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-10-13",
+    "top10": [
+      {
+        "creator": "娱乐吃瓜菌",
+        "fans": "15.7w",
+        "publishTime": "10/11 00:40",
+        "product": "活力28四季繁花洗衣液除菌除螨花香留香持久家用深层去污无荧光剂",
+        "likes": "5w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "小怡姐姐",
+        "fans": "2.4w",
+        "publishTime": "10/11 14:15",
+        "product": "环球复古酒红德训包头半拖鞋女2026新款秋季厚底勃肯鞋外穿懒人鞋",
+        "likes": "1.9w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "🥦",
+        "fans": "18.3w",
+        "publishTime": "10/12 17:42",
+        "product": "无尘擦镜纸除静电除尘纸巾吸水吸油抽取式盒装厨房清洁油污擦拭",
+        "likes": "7,070",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "是宝哥吖",
+        "fans": "6.5w",
+        "publishTime": "10/11 13:45",
+        "product": "奶酪博士金装高钙奶酪棒90g儿童营养零食宝宝健康美味奶酪棒DB",
+        "likes": "24",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "丸子在这里",
+        "fans": "20.7w",
+        "publishTime": "10/11 18:20",
+        "product": "【丸子推荐】秋季纯色木耳边波点堆堆袜卡通小熊甜美百搭中筒袜",
+        "likes": "3,153",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "甜橙妹妹",
+        "fans": "2.2w",
+        "publishTime": "10/11 13:26",
+        "product": "男女童老钱风翻领polo麻花针织毛衣秋冬长袖套头上衣百搭打底衫",
+        "likes": "2,479",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "吃一口芝士🧀",
+        "fans": "1.8w",
+        "publishTime": "10/11 17:00",
+        "product": "【10月产】200ml*20盒脱脂纯牛奶低脂健身减脂纯牛奶早餐必备牛奶",
+        "likes": "4,631",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "村花瓢儿白",
+        "fans": "67.1w",
+        "publishTime": "10/11 13:29",
+        "product": "【难忘时嗑】内蒙古当季新瓜子原味多味葵花籽新鲜现炒酥脆零食",
+        "likes": "2,946",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "学长数理化",
+        "fans": "30.8w",
+        "publishTime": "10/11 06:58",
+        "product": "12月刘晓艳英语四六级真题试卷模拟卷46级考试详解快刷预测出分",
+        "likes": "3.1w",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-10-13",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-0.80%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-3.82%",
+    "productHeat": null,
+    "productHeatMoM": "-0.17%",
+    "salesHeat": null,
+    "salesHeatMoM": "-11.45%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-5.91%",
+    "perLive": {
+      "gpm": "5.5w",
+      "gpmMoM": "-13.5%",
+      "atv": "110.41",
+      "atvMoM": "-1.44%",
+      "uvValue": "10+",
+      "uvValueMoM": "-13.5%",
+      "views": "9,789",
+      "viewsMoM": "-10.69%",
+      "avgOnline": "133",
+      "avgOnlineMoM": "-6.34%",
+      "avgStay": "1′50′′",
+      "avgStayMoM": "+1.30%"
+    }
+  }
+}

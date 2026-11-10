@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-09-01T01:17:39.582Z",
+  "queryDate": "2026-08-31",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-08-31",
+    "date": "2026-08-31",
+    "top5": [
+      {
+        "rank": "17",
+        "name": "JASON吴 JASONWU521",
+        "verify": "",
+        "followerGain": "43.6w",
+        "followers": "317.9w",
+        "products": "0"
+      },
+      {
+        "rank": "3",
+        "name": "蜜雪冰城（官方团购） 95615741236",
+        "verify": "商家认证账号",
+        "followerGain": "19.1w",
+        "followers": "2,675.6w",
+        "products": "0"
+      },
+      {
+        "rank": "进榜",
+        "name": "小柒追剧 yueyuebi888",
+        "verify": "贵州虹梦文化传媒有限公司",
+        "followerGain": "18.4w",
+        "followers": "845.9w",
+        "products": "0"
+      },
+      {
+        "rank": "4 289",
+        "name": "Aloong周楷恒 AloongZKH",
+        "verify": "",
+        "followerGain": "15.4w",
+        "followers": "616w",
+        "products": "25"
+      },
+      {
+        "rank": "5 进榜",
+        "name": "曹俞同学 Oliviercy",
+        "verify": "",
+        "followerGain": "13.7w",
+        "followers": "57.7w",
+        "products": "1"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-08-31",
+    "date": "2026-08-31",
+    "top5": [
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 6,649,820",
+        "volume": "50w~100w 140,270",
+        "atv": "50~100",
+        "followers": "3,923.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP ➤31号早8点 周一见～ lluo9527",
+        "sales": "1000w+ 4,888,602",
+        "volume": "5w~10w 17,195",
+        "atv": "500~600",
+        "followers": "215.9w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "云上珠宝 YDSZB666",
+        "sales": "1000w+ 3,087,360",
+        "volume": "10w~50w 21,399",
+        "atv": "200~300",
+        "followers": "842.4w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "刘叮当🔔定制女包 L.DINGDANG",
+        "sales": "1000w+ 2,562,457",
+        "volume": "10w~25w 20,797",
+        "atv": "200~300",
+        "followers": "524.6w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "5",
+        "name": "李小萌 702948602",
+        "sales": "1000w+ 1,904,833",
+        "volume": "5000~2w 2,019",
+        "atv": "1800~2000",
+        "followers": "1,239.6w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-08-31",
+    "top10": [
+      {
+        "creator": "蚂蚁",
+        "fans": "278.7w",
+        "publishTime": "08/29 17:01",
+        "product": "【买1送1】可麦控油蓬松洗发水修护去屑养发补水家庭男女士洗发膏",
+        "likes": "14.6w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "珊珊来了-",
+        "fans": "83.2w",
+        "publishTime": "08/29 10:48",
+        "product": "Strange Tale咖啡因冰爽熬夜面膜三膜三效合一舒缓保湿10片+1片",
+        "likes": "4.2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "姚钱树🌲",
+        "fans": "114.4w",
+        "publishTime": "08/29 08:58",
+        "product": "亮威撒施型地上地下害虫红薯花生瓜果蔬菜通用防虫室外环境用药",
+        "likes": "190",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "拜托了老弟（鉴货测评）",
+        "fans": "2.1w",
+        "publishTime": "08/29 11:00",
+        "product": "【2026新升级】普路驰玻璃油膜去除剂前挡风车窗清洁去油膜持久高效",
+        "likes": "442",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "挖机大飞",
+        "fans": "47.6w",
+        "publishTime": "08/30 08:02",
+        "product": "公仔牌顽渍净洗衣粉轻松搓洗去污渍除菌除螨3倍洁净去渍家用去黄",
+        "likes": "4,852",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "奇奇不啰嗦",
+        "fans": "1.2w",
+        "publishTime": "08/29 13:41",
+        "product": "宫教授止汗净味霜氯化羟铝止汗露持久祛味无酒精速干型",
+        "likes": "3,155",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "允儿妈咪辅食分享",
+        "fans": "69w",
+        "publishTime": "08/29 21:00",
+        "product": "七小七山药鲜奶小馒头宝宝高钙营养面包儿童学生速食早餐健康零食",
+        "likes": "8,165",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "农资颜选",
+        "fans": "54w",
+        "publishTime": "08/29 11:08",
+        "product": "亮威撒施型地上地下害虫红薯花生瓜果蔬菜通用防虫室外环境用药",
+        "likes": "180",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "顺其自然",
+        "fans": "30.2w",
+        "publishTime": "08/29 10:31",
+        "product": "高能感2026小众撞色卡通涂鸦提花叠穿针织披肩两穿套袖毛衣马甲女",
+        "likes": "550",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-08-31",
+    "updatedAt": "08:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-9.45%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "+8.18%",
+    "productHeat": null,
+    "productHeatMoM": "+9.01%",
+    "salesHeat": null,
+    "salesHeatMoM": "+22.01%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "+23.92%",
+    "perLive": {
+      "gpm": "9.6w",
+      "gpmMoM": "+30.10%",
+      "atv": "101.19",
+      "atvMoM": "+4.19%",
+      "uvValue": "10+",
+      "uvValueMoM": "+30.09%",
+      "views": "1.1w",
+      "viewsMoM": "+0.31%",
+      "avgOnline": "45",
+      "avgOnlineMoM": "-11.76%",
+      "avgStay": "29′′",
+      "avgStayMoM": "-11.26%"
+    }
+  }
+}
