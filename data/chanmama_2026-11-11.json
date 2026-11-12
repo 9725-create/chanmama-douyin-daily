@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-11-12T02:00:52.301Z",
+  "queryDate": "2026-11-11",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-11-11",
+    "date": "2026-11-11",
+    "top5": [
+      {
+        "rank": "",
+        "name": "贾乃亮 jianailiang2019",
+        "verify": "演员",
+        "followerGain": "34.6w",
+        "followers": "5,179.3w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "茶百道官方宠粉号 20082021CBD",
+        "verify": "商家认证账号",
+        "followerGain": "19.5w",
+        "followers": "3,146.7w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "Michael大麦哥 104274995",
+        "verify": "",
+        "followerGain": "19.1w",
+        "followers": "861.3w",
+        "products": "0"
+      },
+      {
+        "rank": "4",
+        "name": "京城小富婆 Jcxfp530",
+        "verify": "",
+        "followerGain": "18.6w",
+        "followers": "204.7w",
+        "products": "0"
+      },
+      {
+        "rank": "5",
+        "name": "炫映剪辑 qianxi0813",
+        "verify": "宜昌炫映文化传播有限公司",
+        "followerGain": "16.6w",
+        "followers": "143.2w",
+        "products": "774"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-11-11",
+    "date": "2026-11-11",
+    "top5": [
+      {
+        "rank": "",
+        "name": "贾乃亮 jianailiang2019",
+        "sales": "1000w+ 20,409,352",
+        "volume": "10w~50w 30,233",
+        "atv": "1600~1800",
+        "followers": "5,178.2w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 10,282,226",
+        "volume": "50w~100w 84,019",
+        "atv": "200~300",
+        "followers": "4,037.1w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "洛哥AP lluo9527",
+        "sales": "1000w+ 7,541,422",
+        "volume": "5w~10w 14,671",
+        "atv": "1000~1200",
+        "followers": "230.5w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "4",
+        "name": "张大能 双十一首播 64657500 首次上榜",
+        "sales": "1000w+ 7,483,474",
+        "volume": "50w~100w 131,111",
+        "atv": "50~100",
+        "followers": "83.6w",
+        "category": "综合",
+        "sessions": "4"
+      },
+      {
+        "rank": "5",
+        "name": "睿心纳物 56974985974",
+        "sales": "1000w+ 5,484,572",
+        "volume": "5w~10w 15,213",
+        "atv": "700~800",
+        "followers": "42.9w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-11-11",
+    "top10": [
+      {
+        "creator": "霞湖世家男装-婷婷",
+        "fans": "2.7w",
+        "publishTime": "11/09 23:33",
+        "product": "【标哥力荐-真德绒 保暖背心】霞湖世家 男女桑蚕丝双面磨绒7A抗菌",
+        "likes": "1.8w",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "姐姐家家",
+        "fans": "84.4w",
+        "publishTime": "11/09 13:39",
+        "product": "加绒加厚短外套女秋冬外穿2026新款羊羔绒立领保暖修身瑜伽上衣",
+        "likes": "462",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "冤种说车（每晚7点直播)",
+        "fans": "457w",
+        "publishTime": "11/10 08:20",
+        "product": "【整箱4大桶】冬季防冻去油膜虫胶汽车玻璃水夏季强力去污四季通用",
+        "likes": "1,656",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "豌豆米米",
+        "fans": "3.9w",
+        "publishTime": "11/09 11:29",
+        "product": "【下单数量+3】苹果山楂热橙茶酸甜水果茶冷泡茶独立包装",
+        "likes": "2,886",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "小欢平安喜乐",
+        "fans": "29w",
+        "publishTime": "11/09 16:42",
+        "product": "3斤装乌木玫瑰沐浴油露持久留香温和清洁补水保湿滋润高级小众香",
+        "likes": "9,955",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "洛洛历险记",
+        "fans": "4",
+        "publishTime": "11/09 16:49",
+        "product": "high labs炫白亮白紫色牙贴色修去黄去渍清洁护理牙膜贴片",
+        "likes": "1.2w",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "小禾拾星光✨",
+        "fans": "3",
+        "publishTime": "11/09 17:08",
+        "product": "复古掌中宝福袋热水袋迷你注水热水袋毛绒暖手宝随身挂绳可拆洗",
+        "likes": "420",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "夏叔有好货",
+        "fans": "709w",
+        "publishTime": "11/09 10:00",
+        "product": "【榆园乳酸菌酸菜】无添加防腐剂低温慢发酵袋装升级款",
+        "likes": "6,390",
+        "sales": "2500~5000"
+      },
+      {
+        "creator": "爆爆猪呀.",
+        "fans": "2w",
+        "publishTime": "11/09 15:05",
+        "product": "【新疆直发】正宗新疆阿克苏冰糖心苹果新鲜脆甜多汁当季现摘直发",
+        "likes": "2,648",
+        "sales": "2500~5000"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-11-11",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "-7.06%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-21.43%",
+    "productHeat": null,
+    "productHeatMoM": "-5.89%",
+    "salesHeat": null,
+    "salesHeatMoM": "-26.56%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-4.75%",
+    "perLive": {
+      "gpm": "8.9w",
+      "gpmMoM": "+3.81%",
+      "atv": "116.89",
+      "atvMoM": "-24.61%",
+      "uvValue": "10+",
+      "uvValueMoM": "+3.80%",
+      "views": "9,557",
+      "viewsMoM": "-20.52%",
+      "avgOnline": "132",
+      "avgOnlineMoM": "-19.51%",
+      "avgStay": "1′54′′",
+      "avgStayMoM": "-6.32%"
+    }
+  }
+}
