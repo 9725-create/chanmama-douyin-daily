@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-11-19T01:59:45.693Z",
+  "queryDate": "2026-11-18",
+  "follower": {
+    "source": "https://www.chanmama.com/bloggerRank/bloggerRise/?category=&dateType=day&day=2026-11-18",
+    "date": "2026-11-18",
+    "top5": [
+      {
+        "rank": "",
+        "name": "赵大牛 1573871987",
+        "verify": "演员",
+        "followerGain": "18.9w",
+        "followers": "186.8w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "susu苏小晴~ xqt10106688",
+        "verify": "",
+        "followerGain": "16.3w",
+        "followers": "95.6w",
+        "products": "0"
+      },
+      {
+        "rank": "",
+        "name": "小帅短剧传媒 xsyyds11",
+        "verify": "洪湖市乌林镇小帅传媒工作室（个体工商户）",
+        "followerGain": "16.1w",
+        "followers": "492.8w",
+        "products": "67"
+      },
+      {
+        "rank": "4",
+        "name": "优乐美 69416279",
+        "verify": "",
+        "followerGain": "15.5w",
+        "followers": "198.9w",
+        "products": "35"
+      },
+      {
+        "rank": "5",
+        "name": "Michael大麦哥 104274995",
+        "verify": "",
+        "followerGain": "14.5w",
+        "followers": "975.7w",
+        "products": "0"
+      }
+    ]
+  },
+  "live": {
+    "source": "https://www.chanmama.com/bloggerRank/liveBlogger/?category_id=-1&dateType=day&day=2026-11-18",
+    "date": "2026-11-18",
+    "top5": [
+      {
+        "rank": "",
+        "name": "金川黄金官方旗舰店 92086381862",
+        "sales": "1000w+ 9,165,649",
+        "volume": "5w~10w 10,707",
+        "atv": "2000~2200",
+        "followers": "113.6w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "",
+        "name": "与辉同行 56697889278",
+        "sales": "1000w+ 4,944,941",
+        "volume": "50w~100w 101,337",
+        "atv": "50~100",
+        "followers": "4,049.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "",
+        "name": "小北珠宝 xbzb777",
+        "sales": "1000w+ 4,225,630",
+        "volume": "5000~2w 2,283",
+        "atv": "4600~4800",
+        "followers": "575.6w",
+        "category": "综合",
+        "sessions": "2"
+      },
+      {
+        "rank": "4",
+        "name": "金川黄金投资金官方旗舰店甄选 74331058180",
+        "sales": "1000w+ 3,622,085",
+        "volume": "1w~2.5w 2,510",
+        "atv": "3600~3800",
+        "followers": "37.7w",
+        "category": "综合",
+        "sessions": "1"
+      },
+      {
+        "rank": "5",
+        "name": "领丰金严选 27639475082",
+        "sales": "1000w+ 3,544,166",
+        "volume": "1w~2.5w 3,521",
+        "atv": "2200~2400",
+        "followers": "83.7w",
+        "category": "综合",
+        "sessions": "1"
+      }
+    ]
+  },
+  "video": {
+    "source": "https://www.chanmama.com/awemeRank/?type=1&dateType=day&day=2026-11-18",
+    "top10": [
+      {
+        "creator": "深空信号站",
+        "fans": "75.8w",
+        "publishTime": "11/17 10:00",
+        "product": "【年度新品】usmile笑容加泥膜吸色牙膏牙渍3.0美白清新去黄去渍KOL",
+        "likes": "8.5w",
+        "sales": "2.5w~5w"
+      },
+      {
+        "creator": "胡涵溪妈妈",
+        "fans": "12.4w",
+        "publishTime": "11/16 10:30",
+        "product": "小野轻煮干锅酱瓶装酱香微辣干锅鸡干锅虾干锅土豆家用懒人调料",
+        "likes": "9,470",
+        "sales": "1w~2.5w"
+      },
+      {
+        "creator": "橙子.🍊",
+        "fans": "3.2w",
+        "publishTime": "11/16 13:01",
+        "product": "yem 【夏日限定】韩国进口长条软糖超酸爆酸夹心学生解馋零食",
+        "likes": "1.2w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "小文子吖",
+        "fans": "2.1w",
+        "publishTime": "11/16 01:02",
+        "product": "PG【到手约100个】荞麦粗粮黑芝麻汤圆老人元宵口味速冻冷冻早餐",
+        "likes": "242",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "鲲鹏的朋友圈",
+        "fans": "36.9w",
+        "publishTime": "11/16 13:56",
+        "product": "MDUOQ保温壶保冷热水壶大容量保温瓶保温杯热水瓶家用保温水壶",
+        "likes": "4,232",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "寇丹老哥哥（小店橱窗）",
+        "fans": "48.3w",
+        "publishTime": "11/17 11:27",
+        "product": "韩信-逐霄拾梦【王者荣耀官方】<自动充值>",
+        "likes": "2,493",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "叶大大",
+        "fans": "314.9w",
+        "publishTime": "11/17 00:00",
+        "product": "【任选7件立减】卫龙经典魔芋爽大面筋风吃海带爆款零食解馋专属",
+        "likes": "1,982",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "罗伟明",
+        "fans": "410.7w",
+        "publishTime": "11/17 07:17",
+        "product": "清风挂抽10提卡皮巴拉纸巾整箱悬挂式抽纸4层加厚250抽家用卫生纸",
+        "likes": "1.7w",
+        "sales": "5000~1w"
+      },
+      {
+        "creator": "可柔妈妈",
+        "fans": "2.7w",
+        "publishTime": "11/16 11:42",
+        "product": "小野轻煮小炒牛肉风味酱鲜香微辣炒牛肉炒猪肉瓶装家用懒人调味酱",
+        "likes": "848",
+        "sales": "5000~1w"
+      }
+    ]
+  },
+  "trend": {
+    "source": "https://www.chanmama.com/industryTrends/flowMarket/?dateType=day&day=2026-11-18",
+    "updatedAt": "09:00",
+    "liveHeat": null,
+    "liveHeatMoM": "+0.60%",
+    "audienceHeat": null,
+    "audienceHeatMoM": "-1.02%",
+    "productHeat": null,
+    "productHeatMoM": "-0.26%",
+    "salesHeat": null,
+    "salesHeatMoM": "-5.49%",
+    "volumeHeat": null,
+    "volumeHeatMoM": "-6.57%",
+    "perLive": {
+      "gpm": "9.8w",
+      "gpmMoM": "+32.48%",
+      "atv": "121.00",
+      "atvMoM": "-2.21%",
+      "uvValue": "10+",
+      "uvValueMoM": "+32.47%",
+      "views": "9,858",
+      "viewsMoM": "-8.42%",
+      "avgOnline": "137",
+      "avgOnlineMoM": "-5.52%",
+      "avgStay": "1′58′′",
+      "avgStayMoM": "-0.21%"
+    }
+  }
+}
